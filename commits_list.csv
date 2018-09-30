@@ -1,0 +1,1388 @@
+"sha";"date";"author";"message";"name";"email";"id"
+"8f5d30e6999fef7fadd4378f2aa2dd8ee2d15269";"2018-06-25T08:59:45Z";"bolismauro";"Add store initializer";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"0c7436cb2b3a8797814ce93be91cdb3e664b2571";"2018-02-28T13:10:12Z";"bolismauro";"Change cocoapods email";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"19ee3b666a19760ef88884e4e74286a0edf7611d";"2018-02-28T12:53:40Z";"lucaquerella";"Merge pull request #146 from BendingSpoons/fix/typos
+
+Fix/typos";"Luca Querella";"luca.querella@gmail.com";110147,00
+"87486bca3c4f0b42c918b44c84b404230d5a8d40";"2018-02-28T10:55:27Z";"smaramba";"Fix typos";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"961f51da5b4e6f69d6465b83f79831755ca39a05";"2018-02-27T14:21:01Z";"smaramba";"Update documentation";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"fcb41c84eecb056c3ce6cab89ffa23c8edca5b47";"2018-02-27T14:14:52Z";"bolismauro";"Merge pull request #144 from BendingSpoons/fix/docs
+
+Update docs";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"123c24416268ebef187a3f9cc20e0855cc273525";"2018-02-27T14:09:28Z";"smaramba";"Update docs";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"91e36cfba510aea9ab1c77c1879747ee210c767d";"2018-02-27T14:01:07Z";"bolismauro";"Merge pull request #143 from BendingSpoons/fix/assets
+
+Move Assets dir under .github";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"87ea5b0958eef1bb9dbf37bcb1c3e4a11421ea28";"2018-02-27T13:01:41Z";"smaramba";"Move the assets under .github dir";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"d4cdf65e3624497e1a777d9acf43c4186ce09e22";"2018-02-27T12:45:57Z";"smaramba";"Update UI section of readme";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"25c5281c3627c3f74b49a2b2381558d621e4d7b3";"2018-02-26T14:57:45Z";"bolismauro";"Merge pull request #141 from BendingSpoons/fix/Tempura-reference
+
+Fix Tempura reference";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"66d97ad2d6c3c839d3cacafc83f78c4010dc953d";"2018-02-26T14:55:23Z";"smaramba";"Fix Tempura reference";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"6fca0e171e5a1ff5259634e7b6d72654f863416c";"2018-02-21T10:29:08Z";"bolismauro";"Release 1.0.0";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"2737192832888530bb1422a65a973ecd6e13c22a";"2018-02-21T10:24:15Z";"bolismauro";"Revert ""Release 1.0.0""
+
+This reverts commit 1d414dcd912d874f50367bb495d9750e8d94f8cf.";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"b95355a7ed86d13505abe28eee8a68a455bf36a2";"2018-02-21T10:23:14Z";"bolismauro";"Fix podspec";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"1d414dcd912d874f50367bb495d9750e8d94f8cf";"2018-02-21T10:15:35Z";"bolismauro";"Release 1.0.0";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e03660cfa7bf523dfe8175d343fffd2e27cc3a25";"2018-02-21T10:14:29Z";"bolismauro";"Fix sling";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"98dfecddae534fc3b5dca31e19bab6c0a761f782";"2018-02-21T09:30:00Z";"bolismauro";"Fix archive issue";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"073d67e67b877972fa0036055c04c99e7c75b23a";"2018-02-21T08:50:39Z";"bolismauro";"Fix sling file";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"22583baed92d281b7183d38e59d3d39dabf58470";"2018-02-21T08:47:09Z";"bolismauro";"Update Project";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"f01665974770ebf25be8bf044905586b41d98c80";"2018-02-20T16:32:37Z";"bolismauro";"Merge pull request #139 from BendingSpoons/ui-separation
+
+UI separation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"7a4760186b4a4b9b971aed1dd377532921547947";"2018-02-20T15:57:14Z";"bolismauro";"Polish README";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"18a157b42324bdc7870fae145a529e6b530622c3";"2018-02-20T15:42:20Z";"bolismauro";"Polish README";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a885b03b405629b13f1a622878549827634f9a9d";"2018-02-20T10:09:28Z";"bolismauro";"Update readme";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e78750ce48714ee464132b2125765eaeb69e2db9";"2018-02-19T16:01:30Z";"bolismauro";"Fix travis";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"84facb800e8ad33e54219240dd1e2132bfeac270";"2018-02-19T15:51:04Z";"bolismauro";"Update travis file";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"728d97580449b75595298729909a3040e2f09593";"2018-02-19T15:46:14Z";"bolismauro";"Restore travis";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"b3d2f0feacf642c1a2650335a3e9baa2fb375694";"2018-02-19T15:14:25Z";"bolismauro";"Add interaction logic";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"24f086b3477fb44df84d9bb30bc4e095004a2c19";"2018-02-19T15:09:52Z";"bolismauro";"Add UI to demo";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"bb96b1d76612f32f94a8686930d1b59f1a2ed568";"2018-02-19T14:51:14Z";"bolismauro";"Add skeleton for new demo";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"35c93ca2558f6e4ddd358fb453df85ee919b8a85";"2018-02-19T14:34:13Z";"bolismauro";"Restore tests";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ff07e97e4de8262de09c16387925263d00611026";"2018-02-19T14:31:40Z";"bolismauro";"Update cakefile";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a4c1495243882fb8cd129a798eafd86078d095fd";"2018-02-19T14:28:07Z";"bolismauro";"Remove MacOS files";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"258ff54d08a1e0dcbad81c1651ba7d8c79d4803c";"2018-02-19T14:26:59Z";"bolismauro";"Remove travis file";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e05f02464678bb82b02e5b8b8262815ebdce6a9a";"2018-02-19T14:25:53Z";"bolismauro";"Update swiftlint files";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"5f6fc82c60293f552916c8aca21d3077feea4a2e";"2018-02-19T14:25:28Z";"bolismauro";"Update sling file";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"dad4d88900fb52ad3b12263789a160dd9bbea94a";"2018-02-19T14:18:05Z";"bolismauro";"Remove examples";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"2e3fa91fd29454d3ba7c7b57400e081945fe8716";"2018-02-19T14:16:50Z";"bolismauro";"Remove UI files";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a87dbe114458a46032d94e577b2fc5896a9a870f";"2017-09-26T09:21:31Z";"bolismauro";"Release 0.8.12";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"8c7fe4239c28ecba04772b0ab4f70df37c4967e4";"2017-09-26T09:18:26Z";"bolismauro";"Update swift version";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"0e592071012660849969cb75aa19f1513dcc818b";"2017-09-26T09:10:32Z";"bolismauro";"Release 0.8.11";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"268ba694ed2ec1277308a5c1363a3cefc0db92cc";"2017-09-26T09:07:10Z";"bolismauro";"Disable test";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e53ceafb02c74a70ff36a0387c0fdcdf51eb8c42";"2017-09-26T09:03:03Z";"bolismauro";"Update sling";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"67e64e958dcda13799cb86814f74b20d4f080b2d";"2017-09-26T09:00:29Z";"bolismauro";"Update sling";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"d44ecde94b33f17f5bcfdc3fcbcbad54ed9b7691";"2017-09-26T08:58:45Z";"bolismauro";"Update sling file";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"cd2a7c31bb45acf9d0c33b58107bc47bfff772bc";"2017-09-26T08:57:14Z";"bolismauro";"Merge pull request #136 from BendingSpoons/swift-4
+
+Update to Swift 4";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ef8c870e1704646a14d5114949398a462c9f111b";"2017-09-26T08:51:54Z";"smaramba";"Update to Swift 4";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"15035477547930e7d2d712254c04991438aa34d8";"2017-07-31T10:21:37Z";"bolismauro";"Release 0.8.10";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"398dd7df1684136484aff39bf3aef68ddf1c07fa";"2017-07-31T10:17:22Z";"bolismauro";"Merge pull request #132 from BendingSpoons/public_dependencies
+
+Expose Store dependencies as public";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a95c4a168e9e1b1872ab6755e19a527b13cc2f9a";"2017-07-31T09:58:17Z";"smaramba";"Make Store.dependencies public";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"70b908bb0acbd11ccae835699284e4cc6647655c";"2017-07-24T14:36:16Z";"bolismauro";"Release 0.8.9";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"541446da2f08db86d67fe0997f59a6905481db60";"2017-07-24T14:30:32Z";"bolismauro";"Merge branch 'fix/remove_listener'";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"9f9a5005a7643e9f685cf1ff1c2ffd1fb56c85f0";"2017-07-24T14:28:14Z";"smaramba";"Fix test";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"12c8da662f99b882f037e826f99c85c7bae68a71";"2017-07-24T13:02:39Z";"bolismauro";"Merge pull request #131 from BendingSpoons/fix/remove_listener
+
+Fix the removal of a listener of the state";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e17f91194cadef0e00e9897e294c91627e7653d4";"2017-07-24T12:46:38Z";"smaramba";"Fix the removal of a listener of the state";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"0718275ee3139307c81ff5fe9415f71734936c64";"2017-07-18T09:37:28Z";"bolismauro";"Release 0.8.8";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"2c609fec38a748cc1b3768fbd91dd801d6d7d48f";"2017-07-18T09:04:36Z";"bolismauro";"Release 0.8.7";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"f3274bc96e8f6e39bf8eb7a106db6d1b4c58e1ff";"2017-07-18T07:56:42Z";"bolismauro";"Merge pull request #129 from BendingSpoons/fix/should-update-check
+
+Fix `shouldUpdate` check";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"82a113ee5f2d3be9bc1f6b821b5552f3ccac2917";"2017-07-17T19:07:51Z";"valeriovolpe";"Fix `shouldUpdate` check";"Valerio Volpe";"vv@bendingspoons.com";22813482,00
+"ec446f80196fca014c4ea231384a90082ebbac3c";"2017-06-12T10:24:53Z";"bolismauro";"Release 0.8.6";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e8b84cba9d74863f4ce3fd0105066ba84100dc7e";"2017-06-12T10:20:17Z";"bolismauro";"Merge pull request #128 from BendingSpoons/fix/wrong-connect-behaviour
+
+Fix Connect Wrong Behaviour";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ede463fe9bda3f6dce200a176574adf3a5413d79";"2017-06-12T10:04:28Z";"bolismauro";"Fix wrong behaviour during connect";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"665db2b2e76f8a883a8f1b56abf376abb884b477";"2017-05-30T09:37:14Z";"bolismauro";"Release 0.8.5";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"26509ef3d8900a7b83d7fab2e33eb2b9ae639348";"2017-05-30T09:06:28Z";"bolismauro";"Make animation options public";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"d6fc1f6777b54ef0587dda67bafd6e68d5fcdcf6";"2017-05-25T14:49:19Z";"bolismauro";"Release 0.8.4";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a7b9b8f4d13d7d72909fdd4d2a25026d8ca287d3";"2017-05-25T14:03:34Z";"bolismauro";"Merge pull request #127 from BendingSpoons/fix/no-animation
+
+Remove performWithoutAnimation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"92f0e2c3c4841ad72fcc3a2a15ede752e18c36ff";"2017-05-25T11:38:34Z";"smaramba";"Remove performWithoutAnimation";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"2f82ad1091c8a47857ffea90a8bc76357d1caa46";"2017-05-16T19:00:31Z";"bolismauro";"Merge pull request #126 from BendingSpoons/feature/improve-anynode
+
+Add properties do `AnyNode`";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"4d712af7a742365776c43ac5880076633f747ef3";"2017-05-16T12:43:18Z";"valeriovolpe";"Add properties do `AnyNode`";"Valerio Volpe";"vv@bendingspoons.com";22813482,00
+"e0c638fe3803a7c141c777bfced8dc939bddbc83";"2017-05-15T08:43:33Z";"bolismauro";"Merge pull request #125 from BendingSpoons/fix/renderer-explore
+
+Fix Renderer’s `explore`";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"f8c1b2f0b0b5446135aa2d1a517cf1621d4f0669";"2017-05-12T18:34:43Z";"valeriovolpe";"Fix Renderer’s `explore`";"Valerio Volpe";"vv@bendingspoons.com";22813482,00
+"6abeda327c87f35210e42077de749186121cd955";"2017-05-11T08:42:08Z";"bolismauro";"Release 0.8.3";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"95179d8c498c9e6685e1142c5ff99b6efa0065f6";"2017-05-11T08:38:29Z";"bolismauro";"Fix project";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"1ef37ea71cf52b44353af37190111d0b14522d40";"2017-05-11T08:38:18Z";"bolismauro";"Fix xcake file";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"9abf617a6b7b69caec9a13d42c88ba9b8ac7177d";"2017-05-11T08:31:02Z";"bolismauro";"Fix project";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"0a0f8e9302e8ce4bf745f40c9721d9c2c4d4bc02";"2017-05-11T08:30:26Z";"bolismauro";"Fix line";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"bf713595472b90f436fd21dbcafa2304c70f3df2";"2017-05-11T08:29:58Z";"bolismauro";"Update project";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e863c126f438c2861bf17ff7ce145796aee2f235";"2017-05-11T08:05:23Z";"bolismauro";"Merge pull request #124 from BendingSpoons/feature/experimental-rendering
+
+Improves rendering performances";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"df004ff4d4e07cadd69778dcd062926ce77b651f";"2017-05-10T19:51:44Z";"bolismauro";"Add check to improve performances when the store changes";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"835e5846788f82f78c03201e6c70d99b15ef1724";"2017-04-19T19:18:56Z";"bolismauro";"Add project
+
+We just introduced xcake, but removing the project from the repo leads to issues with CI and Carthage. This commit restores it";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"1d7fd4b1875b9e159e8c74c85243ca0e008850bd";"2017-04-19T19:15:57Z";"bolismauro";"Merge pull request #123 from BendingSpoons/feature/xcake
+
+Use XCake";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"f0ec93fe899d423c01922d6cac04bcef5528103f";"2017-04-19T19:14:27Z";"bolismauro";"Update readme";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ba072d5f46e3e10fbcb03a4dd3b3fcd2c3ab5d17";"2017-04-19T19:12:32Z";"bolismauro";"Ignore project file";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"b96b488e494659e41f111b8276496d27ef6c10d0";"2017-04-19T19:12:10Z";"bolismauro";"Remove project";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"2bf8b2b71fd5c168bb4c9ea56c98e82e47019d7c";"2017-04-19T19:11:56Z";"bolismauro";"Fix cakefile";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"27061c61893f24fe0a702279dc8193a1f302324c";"2017-04-19T18:50:48Z";"bolismauro";"Merge branch 'master' into feature/xcake
+
+# Conflicts:
+#	Katana.xcodeproj/project.pbxproj";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"9802e184ccc6f5f18ba030d5bd1328b00212e287";"2017-04-19T18:36:11Z";"bolismauro";"Release 0.8.2";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"85d45915080ec567c44f0f2e6fb5b6ff76052b31";"2017-04-19T18:31:18Z";"bolismauro";"Fix project";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"d482269684339834c242d173fdd9d7ed6048b01f";"2017-04-19T18:25:48Z";"bolismauro";"Merge pull request #122 from BendingSpoons/feature/refs
+
+Add Refs";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"35f94ef7827c0faf914e8a7759232063b9a7880a";"2017-04-19T13:21:00Z";"bolismauro";"Add documentation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"27c356db149387dd401f7dab261e90d73328b5ba";"2017-04-19T13:08:33Z";"bolismauro";"Update Table to leverage refs";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"acc6768d04a17f7d9f542d1f72a356739be4f8e1";"2017-04-19T13:08:14Z";"bolismauro";"Move refs to props";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ceb8d9ffb41d2387637fd3899bee41239b2dba29";"2017-04-19T11:56:28Z";"bolismauro";"Add basic ref implementation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"b4909effc5943443640de490eb741d48de68cea3";"2017-04-11T11:42:42Z";"bolismauro";"Release 0.8.1";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ed5723b9657407a2d4a0e64eee9b41b2f8eeeb45";"2017-04-11T11:37:57Z";"bolismauro";"Add assert";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"d4340c63ff9e1417cfec57bdcb1b57b0d367a4f7";"2017-04-08T09:54:24Z";"bolismauro";"Release 0.8.0";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"9773efd6501cf471af8d68f78d7a3473ecd16dd5";"2017-04-08T09:48:26Z";"bolismauro";"Merge pull request #114 from BendingSpoons/feature/state-mock
+
+State Mock Feature";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"0fb0315aa35ffb9720301f14c007d584c99c024a";"2017-04-07T13:34:53Z";"bolismauro";"Merge pull request #120 from BendingSpoons/feature/refactor-store-dispatch
+
+Refactor internal action management in store";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"08be53355d6730dd44702538809ea24e4153c523";"2017-04-07T13:00:50Z";"bolismauro";"Remove outdated comment";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a37eb73fc14f24a15e553dac780e422ac8fc80f6";"2017-04-07T12:42:11Z";"bolismauro";"Refactor internal action management in store";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"c12a4d130d54f552812002f8e84b9e3703d3a2b3";"2017-04-07T11:32:39Z";"bolismauro";"Fix warnings";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e85ef19718d6e8d43447ed70216ae98ae5527d19";"2017-04-06T15:21:41Z";"bolismauro";"Release 0.7.8";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"00a70feb5e532a47d0bf80d5e3d4fb360477629e";"2017-04-06T15:12:41Z";"bolismauro";"Release 0.7.7";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"7bdcfb83b59aaab47a9eaef23423911d70c1c07b";"2017-04-06T15:00:53Z";"bolismauro";"Merge pull request #119 from BendingSpoons/fix/store-dispatch
+
+Fix Store Dispatch";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"4547f05b35b7282947c9876a32e0ac8199a33742";"2017-04-06T14:55:34Z";"sroddy";"Fix Store Dispatch";"Stefano Rodriguez";"sr@bendingspoons.com";729934,00
+"151a6d186f05e7173da71f1a9f6fc04542d3cd33";"2017-04-05T19:49:31Z";"bolismauro";"Release 0.7.6";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"40d0922acd5db93e63b15083fc7987b46af03a02";"2017-04-05T19:45:29Z";"bolismauro";"Merge pull request #117 from BendingSpoons/fix/store_dispatch_dependencies
+
+Fix store state dependencies";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"f96bef69ea303d7685651923c0619e3b0d9a8653";"2017-04-05T19:32:09Z";"AlfioRussoBS";"Fix store state dependencies";"AlfioRusso";"ar@bendingspoons.com";23240818,00
+"2676d0105be34912b10d3675e7ccbea8790a529e";"2017-04-05T16:19:56Z";"bolismauro";"Release 0.7.5";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"45e14d9c1969e7fabbfc32a08e6476e39c0d5352";"2017-04-05T16:16:05Z";"bolismauro";"Update sling";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"cd41298da2194be359f38010c30e5ac8eb52b90e";"2017-04-05T16:13:50Z";"bolismauro";"Merge pull request #116 from BendingSpoons/fix/store_dispatch
+
+Fix/store dispatch";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"13250cbc6eac764ef7d03a2c5690a99cde9c7006";"2017-04-05T15:59:00Z";"AlfioRussoBS";"Fix Dispatch force unwrap";"AlfioRusso";"ar@bendingspoons.com";23240818,00
+"d3d756ef3e3f4e28c5e411e5c6ef9f8f63258de6";"2017-04-05T15:22:43Z";"AlfioRussoBS";"Add test for edge case in store dispatch";"AlfioRusso";"ar@bendingspoons.com";23240818,00
+"046dd92fd4c088e150bf11ac10fa290ec6330f80";"2017-04-04T07:12:11Z";"bolismauro";"Merge pull request #115 from BendingSpoons/fix/plastic-top
+
+Fix Plastic top";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"b7587f6ef31ff90b9a6b61988bda0000477e9fdd";"2017-04-04T07:11:57Z";"bolismauro";"Use self";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"cdd337b4ec993bfd9a7abd6ba94dda4907da9c1b";"2017-04-04T07:10:09Z";"bolismauro";"Use self";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"164903896130cb22d221c132caa1a924c7e0cfb9";"2017-04-03T08:13:01Z";"sroddy";"Fix Plastic Layout Issue when bottom is set before top";"Stefano Rodriguez";"sr@bendingspoons.com";729934,00
+"d304e3cd70bd178372d9e485e32f22d03a205c55";"2017-04-03T08:07:00Z";"sroddy";"Add more Plastic Layout Tests";"Stefano Rodriguez";"sr@bendingspoons.com";729934,00
+"5f56f059a93399654b49d8b4f17cd7ca7c2ddd11";"2017-04-02T12:40:51Z";"bolismauro";"Update README, fix #105";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a806d2f8431bd945235894e163163fd7fc82dde6";"2017-04-02T12:37:44Z";"bolismauro";"[WIP] Use xcake to generate project file
+
+Everything works but the MacOS demo";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"babd124c0a2e92ac569211fbb9bd9103a44c3de3";"2017-04-02T12:07:22Z";"bolismauro";"Fix MacOS compilation issues";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"cc3cb6223bb3db172c1f4975d5f91b2cb65c06da";"2017-04-02T12:03:43Z";"bolismauro";"Add documentation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"6c1297784e1b420202a4f65498ee07ceccac8109";"2017-04-02T11:48:09Z";"bolismauro";"Remove isStateMocked";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"12e7d98d755e1e0a409eaf5d8fa38d42a7f86fa3";"2017-04-02T11:31:53Z";"bolismauro";"Update Node to support mocked state";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"b89d911b0b0a2d5306a2e975b63380ed06b648dc";"2017-04-02T10:20:33Z";"bolismauro";"Add preliminary refactoring to support store mocking";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"74c1e48e06170431bfa4d8690702ba5222ac3c07";"2017-04-02T09:37:11Z";"bolismauro";"Add StateMockProvider";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"8b384d41c6f87e2f6d08bb99d310c035ea0d2bc0";"2017-03-27T19:23:38Z";"bolismauro";"Merge pull request #112 from mickeyreiss/patch-1
+
+Fix typo in comment";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"52de1a46ceb6d370e14953a5f51a111695a9e48a";"2017-03-25T00:18:32Z";"mickeyreiss";"Fix typo in comment";"Mickey Reiss";"mickeyreiss@gmail.com";47405,00
+"2081d4e7a05a495124e46520aa49affce9f0a652";"2017-03-14T17:01:00Z";"bolismauro";"Release 0.7.4";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e55983929ac8934681ee7e48f41f94fd54895b6d";"2017-03-14T16:56:57Z";"bolismauro";"Fix compilation issue";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"113d37a22f617953a3d1990311512fbb8cce38fa";"2017-03-14T16:44:01Z";"bolismauro";"Merge branch 'develop'";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"fb5ab677cdbec157f46b885a70bf12cdd57febfe";"2017-03-14T16:41:10Z";"bolismauro";"Fix issue with plastic frames rounding";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"56cdf4364fa89cdfe516e830fd634fab694bc7a1";"2017-03-13T10:15:40Z";"bolismauro";"Release 0.7.3";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"29224dbc8aa4bc4e87af329943df889378ece76d";"2017-02-15T20:52:26Z";;"Expose `borderColor` and `borderWidth` on Button";"Valerio Volpe";"vv@bensingspoons.com";
+"c8ae780e7ad2a842b6b75b8050945f01331f2e57";"2017-02-15T18:48:21Z";"sroddy";"Provide Defaults to AsyncAction completedAction() and failedAction() (see #106)";"Stefano Rodriguez";"sr@bendingspoons.com";729934,00
+"3b936e4bf0016251043bd8436c260dbae48df338";"2017-02-24T11:38:58Z";"bolismauro";"Merge pull request #110 from darrarski/hotfix/fix-table-example
+
+Fix Table Example";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"bf9fe2e2cc98239779abb88bfb2a59dd0aa15a3e";"2017-02-23T22:39:29Z";"darrarski";"Fix SideEffectDependencyContainer conformance in PostsProvider";"Dariusz Rybicki";"darrarski@gmail.com";1384684,00
+"88702f7ee179d0c0caba23d8c2ce91a3c5e7adc3";"2017-02-16T11:26:06Z";"bolismauro";"Merge pull request #109 from BendingSpoons/feature/improve-button-macOS
+
+Expose `borderColor` and `borderWidth` on Button";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"db79cfe0d421ef6d610512bab0e84cc960950238";"2017-02-15T20:52:26Z";;"Expose `borderColor` and `borderWidth` on Button";"Valerio Volpe";"vv@bensingspoons.com";
+"2dd80fd8ef9a9ebd086600127f94a41468a7d9e9";"2017-02-15T19:43:46Z";"bolismauro";"Merge pull request #108 from BendingSpoons/optional-inouts
+
+Optional inouts";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"d423c60c0ab43207a62d94a801b4f9dea15737a2";"2017-02-15T18:48:21Z";"sroddy";"Provide Defaults to AsyncAction completedAction() and failedAction() (see #106)";"Stefano Rodriguez";"sr@bendingspoons.com";729934,00
+"d8a7bc4e18dd838e6970edc6f101c5be3f049f75";"2017-02-12T18:52:23Z";"bolismauro";"Release 0.7.2";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"d48d6a558496b3baa126300a4a101f7f54f8c9d5";"2017-02-12T18:46:45Z";"bolismauro";"Merge branch 'master' into develop
+
+# Conflicts:
+#	Katana/Store/Store.swift";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"d9fa3c327f001722ed23c2a8c261f4e73ce63d91";"2017-02-12T18:44:18Z";;"Fix dispatching";"Valerio Volpe";"vv@bensingspoons.com";
+"944084a8a1781cd46b7ce579ce8c9f208731fc6e";"2017-02-12T14:27:05Z";"bolismauro";"Release 0.7.1";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"034a5b703c58ea62730b8bb3724d77ce6e67319e";"2017-02-12T14:20:56Z";"bolismauro";"Update dependency container protocol";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"2ba2c57327471b006d74a541a7ed489793fd1d4c";"2017-02-07T19:36:26Z";"bolismauro";"Release 0.7.0";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"27d767b131da0fcfeac37553f3ebf4ba3a058f7a";"2017-02-07T19:30:56Z";"bolismauro";"Merge branch 'develop'";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"41ad9e6b9bef2a9bee339101b6e4289d7b7dd4ef";"2017-02-07T19:27:03Z";"bolismauro";"Merge pull request #107 from BendingSpoons/feature/side-effect-refactor
+
+Side effects refactor";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"2f19a18efbef61280a0405d9f4760097ef5ffb21";"2017-02-07T19:09:10Z";"bolismauro";"Fix issue when animating node descriptions with children";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"5b7f0f396480c323e2de0affcbeb1c4596e029dc";"2017-02-05T19:21:43Z";"bolismauro";"Fix documentation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"1d5291b8c6f94f4513f2f64227380a4be4da51d3";"2017-02-05T19:18:25Z";"bolismauro";"Fix warnings";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"edc9367eba5c149a8fcf95df32662114c5cab0f7";"2017-02-05T19:17:46Z";"bolismauro";"Fix Examples";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"8d75d168e4dee5e372aea0f184626f5f4b389c72";"2017-02-05T19:10:28Z";"bolismauro";"Refactor SideEffectDependencyContainer
+
+This commit adds a new way to handle dependency container.
+
+The most important change is that the dependency container is not instantiated anymore on each side effect. While the purpose of preventing the state in th";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"82e4d7049ab25968bb0149f4266014301b2cbe10";"2017-02-05T18:57:56Z";"bolismauro";"Add previousState in side effects
+
+This commits completes the work of the previous commit. It adds the state before the updateState. In this way the side effect has all the information that are needed to properly take actions";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"f124ab6cbf58a8a4c725109ca2e17b74d20538ff";"2017-02-05T18:47:30Z";"bolismauro";"Execute side effects after the update state
+
+As discussed internally it seems that it is better to run the side effects after the updateState. By moving the side effects after the updateState we are able to have the updatedState when running custom logic ";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ed636f44caad023cc3450ce0b79063187ae94d0a";"2017-01-31T15:46:26Z";"bolismauro";"Release 0.6.1";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"181141d2b9091b518863166ca815899d483c9edb";"2017-01-31T15:41:48Z";"bolismauro";"Remove optimization that caused weird animation issues";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ad860ec90be98ab1836b1ec3cbc611db2bd8a8e0";"2017-01-27T16:39:31Z";"bolismauro";"Release 0.6.0";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"8bcc5bc95e3b5449a83205eea0b1b0f5981d038d";"2017-01-27T16:34:54Z";"bolismauro";"Merge pull request #104 from BendingSpoons/develop
+
+Release 0.6.0";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"9c99c1830bd6300ca8f8aedab8c441ed2d9057a5";"2017-01-27T16:31:38Z";"bolismauro";"Merge pull request #103 from BendingSpoons/feature/new-actions
+
+Feature/new actions";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"22d2c7d06641b6ce7abb1bd37c70a3c43aa9f9d1";"2017-01-24T16:22:52Z";"bolismauro";"Fix examples";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"5400cd11f681d9e15509b685ef88971154110827";"2017-01-24T16:14:44Z";"bolismauro";"Add documentation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"efdd785f44502aa49c000215470b62f999042e8d";"2017-01-24T16:09:11Z";"bolismauro";"Fix warnings";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"157c49e7b45f2686501b6c83595cc7ef8bce9dc8";"2017-01-24T16:08:35Z";"bolismauro";"Remove useless protocol AnyActionWithSideEffect";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"34674706e2f1379e20426dba21022d0c31a9d547";"2017-01-24T15:58:18Z";"bolismauro";"Rename test";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"c03b9c19db10f508b01d7838fbda4c81b1aebff6";"2017-01-24T15:58:14Z";"bolismauro";"Add progress to async action";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"5bffee72ebd4c2b1f2ee51b73df157e3ca4709f7";"2017-01-24T15:41:18Z";"bolismauro";"Refactor AsyncAction";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"767ae5f20d860b862d6e07ec1f516766434fbcce";"2017-01-24T15:32:00Z";"bolismauro";"Remove SyncAction";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"23ee9338832de5029f765ca33f7d2ae8d35fe33f";"2017-01-23T08:28:47Z";;"Expose toolTip on Button";"Valerio Volpe";"vv@bensingspoons.com";
+"757fa56c7b50929129952c0ad47fab8d1169173f";"2017-01-18T17:54:22Z";"bolismauro";"Improve animation performances
+
+This commit removes some extra updates in the animation process";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a6d2f19fec9906e8ba6e7a229cf2f6a6b94cb6a8";"2017-01-18T15:07:48Z";"bolismauro";"Add shouldUpdate method
+
+It is now possible to create custom behaviour for the description updates. This can be used to implement logics where the descriptions are not updated even if the props/state are changed (that is, the equatable implementation retu";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"9531a418b9a531fc9f7b3b459415204d1763c08c";"2017-01-17T15:54:42Z";"bolismauro";"Release 0.5.2";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"854a44741b7d5ff25fc353d9dc275b11ca0b83d0";"2017-01-17T15:50:44Z";"bolismauro";"Merge branch 'master' into develop";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ae635c7e8e5cbd313888f41d98480d7978af47b6";"2017-01-17T15:48:56Z";"bolismauro";"Merge pull request #102 from BendingSpoons/feature/action-linker-patch
+
+Make the ActionLinks init public";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"aea901ae423ca166602681338c3afe5d00bbac85";"2017-01-17T13:31:36Z";"bolismauro";"Improve StoreMiddleware
+
+The first part of the Middleware is now invoked when the store is created. This can be used to perform special actions during the initialization";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"2311cdae294d5004ca337b8e72c486b44cbcafb4";"2017-01-17T10:27:59Z";"cipolleschi";"Make the ActionLinks init public";"rc";"rc@bendingspoons.com";11162307,00
+"b758443d8e5caaaf0068d9dcd486898dc87e4aea";"2017-01-16T20:51:09Z";"bolismauro";"Remove useless protocol";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"426f847084782838294d31743cdbccb380ff138c";"2017-01-16T10:34:14Z";"bolismauro";"Release 0.5.1";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"f2b3ad6272090dbef442cc3a21cbb742e74cc9fc";"2017-01-16T10:22:59Z";"bolismauro";"Fix middleware bug
+
+Side effect was triggered before middleware. This commit fixes it";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"4f87900909a50d49d55a4cf89e57f2f7e43ebce9";"2017-01-13T19:49:43Z";"bolismauro";"Release 0.5.0";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"f8316ff217923efe61d7e7e3fd61f8fd327e1d76";"2017-01-13T15:43:05Z";"bolismauro";"Update sling configuration file";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"8acf406643e9a708f03fb5f7833bd3b75473297a";"2017-01-13T15:41:27Z";"bolismauro";"Merge pull request #100 from BendingSpoons/develop
+
+Release 0.5.0";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"dfc476872f2b58ea55e73dd0c6cf4115d8244755";"2017-01-13T14:55:45Z";"bolismauro";"Merge pull request #98 from BendingSpoons/feature/action-linker
+
+Feature/action linker";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"0584e7cff8441551984537c156a0dc695b067d1f";"2017-01-13T14:55:17Z";"bolismauro";"Merge branch 'develop' into feature/action-linker";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"37c5302c1b50f8ce83a531c8cb3d6573304709ca";"2017-01-13T14:53:23Z";"bolismauro";"Fix indentation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"b7565005bd2b34995dc2f66436de403506a32cea";"2017-01-13T14:52:31Z";"bolismauro";"Fix documentation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e689c36aa0a99999a2a4dcd11774eefb598fde04";"2017-01-12T16:25:25Z";"cipolleschi";"Update the test for the middleware implementation";"rc";"rc@bendingspoons.com";11162307,00
+"bf6707df674ae4c1fe506a57bcd1eb16ff6a8651";"2017-01-12T16:25:14Z";"cipolleschi";"Adapt the store code removing the ActionLinker";"rc";"rc@bendingspoons.com";11162307,00
+"d908bce22564bf7177408cb28c137b48bf15b5e7";"2017-01-12T16:24:38Z";"cipolleschi";"Convert the ActionLinker to a framework";"rc";"rc@bendingspoons.com";11162307,00
+"2caf85f8f5a9485201e13bf26c732950dae460a9";"2017-01-12T14:45:35Z";"cipolleschi";"Implement PR comments and fixes";"rc";"rc@bendingspoons.com";11162307,00
+"8ff48134aae866886225c0711ba2bb914563b23e";"2017-01-12T14:44:50Z";"cipolleschi";"Add actionLinker to the project so that MacOS compiles";"rc";"rc@bendingspoons.com";11162307,00
+"ff22b7675fab21b1bd88961e6b5e0f2f0ec62e70";"2017-01-12T11:35:43Z";"cipolleschi";"Remove TODO";"rc";"rc@bendingspoons.com";11162307,00
+"0593d253e6c62a711853027f3ed13d006941bc6c";"2017-01-12T11:32:44Z";"cipolleschi";"Update projects";"rc";"rc@bendingspoons.com";11162307,00
+"020fe8bb4e206db7b751805b907fd43081cd6d04";"2017-01-12T11:32:37Z";"cipolleschi";"Add tests for the action linker";"rc";"rc@bendingspoons.com";11162307,00
+"661f388379a0d99b2750ac0b64cfa04854b8d5dc";"2017-01-12T11:32:29Z";"cipolleschi";"Update the stack with the ActionLinker";"rc";"rc@bendingspoons.com";11162307,00
+"7a65219953a806228be25fc3c45d57215fa19601";"2017-01-12T11:31:17Z";"cipolleschi";"Add the ActionLinker logic";"rc";"rc@bendingspoons.com";11162307,00
+"64dc6adf2c3db1389119c6ea14729ce55aa20f64";"2017-01-12T11:31:07Z";"cipolleschi";"Add ActionLinks struct";"rc";"rc@bendingspoons.com";11162307,00
+"c9111a25b42d30ad3359aa6fc9abd1c736aee459";"2017-01-12T11:30:50Z";"cipolleschi";"Add linkeableActions";"rc";"rc@bendingspoons.com";11162307,00
+"c02b1d6970d31408bac0066384ba21c527b9df86";"2017-01-11T10:03:33Z";"smaramba";"Merge branch 'develop' of https://github.com/BendingSpoons/katana-lib-swift into develop";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"78ae6acd65c30754d75fb6125fb1df854bb83be3";"2017-01-11T10:03:09Z";"smaramba";"Add isEnabled property for Button element";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"9fb2100551dc8924eca00989a90f885f5eee2aca";"2017-01-09T08:11:00Z";"bolismauro";"Merge pull request #97 from BendingSpoons/hotfix/public-scale-value
+
+Make PlasticView scaleValue public";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"01ddfa836cec6194c7ae00b6e0d4b087e875e7cf";"2017-01-08T20:25:53Z";"sroddy";"Make PlasticView scaleValue public";"Stefano Rodriguez";"hlsroddy@gmail.com";729934,00
+"efdd108b89690f890e9f8bbd575b6391a31472d3";"2017-01-05T12:43:12Z";"smaramba";"Add cornerRadius prop to Button Element";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"485baa5ef467683d3bdda771627af3a4270579e2";"2016-12-27T09:34:23Z";"bolismauro";"Merge pull request #95 from BendingSpoons/feature/improve-lifecycle-api
+
+Improve lifecycle api";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"d783d710bdf2b8bb62d1c98c955099d055059702";"2016-12-24T15:45:40Z";"bolismauro";"Add Update to didMount hook";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"7ecbf5aa7a48e93e48e6b57cf24c62a7f7c34505";"2016-12-24T15:06:17Z";"bolismauro";"Improve lifecycle api";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"62cf87747b964b83b40669d982f648fe379ac515";"2016-12-24T13:17:22Z";"bolismauro";"Release 0.4.0";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"56690289c16ed71fcce7971d2008430c9d44e038";"2016-12-24T12:45:40Z";"bolismauro";"Merge pull request #94 from BendingSpoons/develop
+
+Release 0.4.0";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"53eabd365741a745e9365116434f483572030a6a";"2016-12-24T12:44:12Z";"bolismauro";"Merge pull request #92 from BendingSpoons/feature/refactor-middleware
+
+Feature/refactor middleware";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"716077b047b64a72b5318a205b482ad717f82b6c";"2016-12-24T12:43:57Z";"bolismauro";"Merge branch 'develop' into feature/refactor-middleware
+
+# Conflicts:
+#	Katana/Store/Store.swift
+#	KatanaTests/Storage/Core/MiddlewareTests.swift
+#	KatanaTests/Storage/Core/SideEffectTests.swift";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"0228374be5a720c6c45ddd69c631a6de7c149cd0";"2016-12-24T12:28:40Z";"bolismauro";"Merge pull request #93 from BendingSpoons/feature/update-swiftlint
+
+Update swiftlint";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"c5aae9e0c9fda93398999db17122ee6bc33101d3";"2016-12-24T12:28:26Z";"bolismauro";"Merge branch 'develop' into feature/update-swiftlint
+
+# Conflicts:
+#	Katana/Core/Animations/AnimationType.swift
+#	Katana/Core/Node/PlatformNativeView.swift
+#	KatanaElements/MacOS/Button.swift
+#	KatanaElements/MacOS/NativeButton.swift";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"f092d31c06caf274497f81a463d149a5953ef376";"2016-12-24T12:23:58Z";"bolismauro";"Update examples";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"387284a8a4a7f387dca3e6299cdbe077c4a7bb5b";"2016-12-24T12:17:39Z";"bolismauro";"Fix examples";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"50d33ba6e18695e458e3ae510145d3b41a0c51c0";"2016-12-24T11:30:50Z";"bolismauro";"Make Middleware non generic
+
+Fix #87";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"09adaa2a84baa9bcc25d908bd9312ce7d6010d10";"2016-12-24T11:27:33Z";"bolismauro";"Rename middlewares to middleware
+
+Fix #86";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"cba1f1a623b14bcd46a6515deb9bed42160b43b4";"2016-12-24T11:19:12Z";"bolismauro";"Add missing documentation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"4c3c180aafa927c6dac04cdab40c807858161557";"2016-12-24T11:02:06Z";"bolismauro";"Update README
+
+Fix #85";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"bd053b8f0179b78f63a1bb8ec3d3cc21b6c69bd9";"2016-12-24T10:54:04Z";"bolismauro";"Merge pull request #91 from BendingSpoons/fix/random-int-gen
+
+Random Int generation fix";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"3b6f1ca51cad00614fdf72e6390731f10a07bf05";"2016-12-23T13:36:37Z";"bolismauro";"Update swiftlint configuration";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"6881b9ac0c8e8e2db2ff6a96af154507ba01fbf5";"2016-12-22T13:09:01Z";"untakatapuntaka";"Fix random Int generation on 32-bit platforms";"Francesco Giacche`";"fg@bendingspoons.com";15791026,00
+"991f66e9c682fc673c6150f8e47664cc89629e74";"2016-12-13T15:01:16Z";"frankdilo";"Update SyncAction.swift";"Francesco Di Lorenzo";"fradilorenzo92@gmail.com";715405,00
+"aab60e8da79a6e7f054b6b7c9a300e555f6e70e4";"2016-12-23T11:01:48Z";"bolismauro";"Refactor storeDispatch managemetn";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"6ae3ea0e01bfe308eb09ee0094b54e5ca3f605bd";"2016-12-23T10:56:01Z";"bolismauro";"Improve documentation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"8ebe133c89219f6556110aad38669bf525bf1b54";"2016-12-23T10:55:12Z";"bolismauro";"Implement willReceiveProps hook";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"72583fc47756f3014b5f37039117b852355d2dd6";"2016-12-23T10:23:20Z";"bolismauro";"Add didUnmount hook";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"4b478f35f5c78efc76bd51d99e08119071e3d991";"2016-12-23T10:12:44Z";"bolismauro";"Add more tests";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"9e2637b5180da114fa87e5bf1feeea259feb2134";"2016-12-23T10:03:27Z";"bolismauro";"Add didMount hook";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"b99bbb3e88968ce830f8724ed4c8436fe42a0dd1";"2016-12-13T16:56:55Z";"bolismauro";"Merge pull request #88 from BendingSpoons/fix-typo-in-doc
+
+Update SyncAction.swift documentation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a4944951e1e8d96a2a0f486ba95dba8ffd0b7d3e";"2016-12-13T15:20:18Z";"smaramba";"Add type for Button";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"49be62245eb9eb27541dad69f0136d67819b3ae0";"2016-12-13T15:01:16Z";"frankdilo";"Update SyncAction.swift";"Francesco Di Lorenzo";"fradilorenzo92@gmail.com";715405,00
+"fe6e37038e99c0f6db58787fb297c9afcc5c4a8a";"2016-12-13T10:43:40Z";"smaramba";"Update NativeButton ClickHandlerClosure";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"72eb877e7a6c217d01a38675143030efafbdd96a";"2016-12-07T16:35:32Z";"smaramba";"Add image and highlightedImage properties for Button";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"ed6c4e135e9c458fde76789e39dee4a4dbe145d8";"2016-12-07T16:35:11Z";"smaramba";"Add implementation of bringToFront for macOS";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"c869ad0f6416849158141abd427195edc1b3d96a";"2016-12-06T15:04:52Z";"bolismauro";"Make container public";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"9cfbedfdd331ef15c82e4a441cb56120a2d1d564";"2016-12-02T16:49:34Z";"smaramba";"Make NSViewCustom and NativeButton open classes";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"a60db6e55d210f019599edef7a75f5c0256dc6e6";"2016-11-30T16:40:06Z";"bolismauro";"Fix previous commit change";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"351ca9fc133e559e792ea706be6546c1c77e2c05";"2016-11-30T16:15:02Z";"bolismauro";"Make Render property optional in Node";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ec58714fa9abe728cad97b4c4069dc2c2dc71ab7";"2016-11-29T09:36:08Z";"alaincaltieri";"Include in pods only .swift and .h files as sources";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"72df70c4d38f635b89ec89960a2b0ff043c001a1";"2016-11-29T09:03:45Z";"bolismauro";"Release 0.3.0";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"3ff7eb665b506fd0e201c493b9a0d41466ffa0b8";"2016-11-28T20:35:13Z";"bolismauro";"Fix warnings";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"71826ccf720e50154940d8b528f38c697bb7d9a8";"2016-11-28T20:30:59Z";"bolismauro";"Merge pull request #74 from BendingSpoons/feature/agnostic_drawableContainer
+
+Katana for macOS";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e9556ffad47f8494557390bfbd23711bb18e006a";"2016-11-28T20:30:17Z";"bolismauro";"Merge branch 'master' into feature/agnostic_drawableContainer
+
+# Conflicts:
+#	Katana/Core/Node/Node.swift";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"498807d4dd6de1caf501fe7c120b743500426b3c";"2016-11-28T18:42:17Z";"smaramba";"Fix header file";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"ac735a314cc3618720f243d53fa18723ed7b9125";"2016-11-28T18:40:34Z";"smaramba";" Update tests";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"1971c7329d6c61d09b984c4b240094a45e8cd060";"2016-11-28T17:02:08Z";"bolismauro";"Suppress warnings";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"08df5e370e9fb32ab9de32d662a552ac867b94ed";"2016-11-28T16:56:35Z";"bolismauro";"Remove Xcode snippets";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"3e6a0fdfd7aa5c2792801a74d13cb34024273384";"2016-11-28T16:56:00Z";"bolismauro";"Fix Animation Demo";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"7dff5fc76adbc21aa811b4c72f6e3d81430943e5";"2016-11-28T16:51:20Z";"bolismauro";"Make Anchor immutable";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"4fa4ee643a8535bc493a292d26682ab4dfe0bbb3";"2016-11-28T16:49:44Z";"bolismauro";"Merge pull request #76 from madbat/anchor-dsl
+
+DSL for PlasticView Anchors and Values";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"78f83a38a20523780bb5961099e3a2fac728b7b0";"2016-11-28T15:47:20Z";"alaincaltieri";"Fix Carthage sling config";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"0b1be3fc16d9b4b378d3479bd57d83d5d882f253";"2016-11-28T15:25:52Z";"alaincaltieri";"Update ios simulator OS version";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"eb7e8ec7c1e919525d6c2369f33cca9473f34d62";"2016-11-28T15:24:43Z";"alaincaltieri";"Update sling file to support macOS too";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"f95a48227bc452bc73b6b02762670967bacf1479";"2016-11-28T15:07:19Z";"smaramba";"Avoid direct manipulation of UIView layers";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"a16c3d7f44dbd7224e33e3284e348309b580ee71";"2016-11-28T14:24:08Z";"smaramba";"Remove unused AppState";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"b3dfbc0c465a45e46ccadbbdd86491f0431388ec";"2016-11-28T13:43:47Z";"alaincaltieri";"Update travis os version";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"5abf8cb07f7c8170701b4122302b5d31efeb282e";"2016-11-28T13:09:42Z";"alaincaltieri";"Fix travis platform for macOS builds";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"8a572af306a39a60e43a1057ea85a9ae66bab59d";"2016-11-28T12:57:14Z";"smaramba";"Update README with macOS";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"0d109b116fe32d27c302b326cf3a45e96d9fdf63";"2016-11-28T12:38:18Z";"alaincaltieri";"Update podspec for KatanaElements";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"fcf8a834a9f87633335053905f3314f58049cf6b";"2016-11-28T12:36:53Z";"alaincaltieri";"Bugfix Katana macOS scheme";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"1fc8f6150630e58fd7f68b72039530f66a819edb";"2016-11-28T12:36:35Z";"alaincaltieri";"Configure .travis to execute macOS tests too";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"cb89ea499004fc5cd125bb15d954b04a5fa5d136";"2016-11-28T12:23:47Z";"alaincaltieri";"Update Podspec to support both iOS and macOS";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"e11582636d50adce0dfaf2da390e937f9dafa7c0";"2016-11-28T10:43:18Z";"smaramba";"Introduce iOS coordinates system in Katana for macOS";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"a57e1fed3b55f1c1d8bfc601b5945141eea30955";"2016-11-28T10:21:02Z";"bolismauro";"Make Store open
+
+This allows to easily mock without using actions";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"671c467f038b043e089b29a737c18f91530f6a60";"2016-11-28T10:20:04Z";"bolismauro";"Ignore build folder";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"2cb03d7fb324bb63f129e0419aa4b1ab22da0131";"2016-11-28T08:46:45Z";"smaramba";"Change macOS deployment target to 10.10";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"d9a664396564bba4ae8dd612c1db8cf092dc2fd9";"2016-11-27T23:24:23Z";"sroddy";"Fix typo";"Stefano Rodriguez";"sroddy@users.noreply.github.com";729934,00
+"7791124ec78a3acd469f2151214c81c45615ebf3";"2016-11-27T22:15:55Z";"madbat";"Add tests for creation of Anchors through the + operator taking a CGFloat as right-hand side argument";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"eaea78751b60e4517f8bb351cf21c34c802802b4";"2016-11-27T22:14:37Z";"madbat";"Add overloads to + and - operators operating on Anchor and CGFloat values";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"17aad30b5139c87af0fe77e7d728f7ea2e1d9239";"2016-11-27T22:05:45Z";"madbat";"Remove extensions to CGFloat, Double and Float to add Value-returning methods `scalable` and `fixed`";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"af88c630f844789a2a83ead60350931f569a1caa";"2016-11-27T22:04:59Z";"madbat";"Remove Value conformance to ExpressibleByIntegerLiteral and ExpressibleByFloatLiteral";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"bfb459a70f9274a7b975f5c9f40fed65fde7ee4a";"2016-11-27T21:38:38Z";"smaramba";"Add polishing";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"c2c279b7344fc9e4030fcd70313077cf0b824166";"2016-11-27T20:27:58Z";"madbat";"Update Size- and EdgeInsets-related tests";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"c8109b4f0ec1428ef5d7517b72cf93be98da6ab1";"2016-11-27T20:04:03Z";"madbat";"Remove ambiguous inizializers from EdgeInsets";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"cf6aa332c73b26ce667074c3e1dfaaff07ccb73a";"2016-11-27T20:01:54Z";"madbat";"Remove ambiguous initializers from Size";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"b9c5287dfd44515a3fc002a20d11bea131baf164";"2016-11-27T20:00:17Z";"madbat";"Improve Anchor.coordinate";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"762a493969c145858d4ce6a3f0f54457391c35a6";"2016-11-27T17:48:35Z";"madbat";"Remove Value initializer `init(_ scalable: CGFloat)`";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"3254e6aeed8b3130f4c6a59d8af40154903e0922";"2016-11-27T17:23:03Z";"madbat";"Update tests to match changes to PlasticView anchor setters";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"7b90a30ae184df0e6b318e690ff0404c235ca55a";"2016-11-27T17:15:50Z";"madbat";"Use new anchor + offset setters in Plastic convenience methods";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"486eab4fa913d29688cf7d91c59b76a6b4827161";"2016-11-27T16:57:34Z";"madbat";"Merge remote-tracking branch 'BendingSpoons/master' into anchor-dsl";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"51ae831c97f0ac067b526070d53511a63ecc3ccc";"2016-11-27T16:57:11Z";"madbat";"Remove setTop/Bottom/Left/Right/CenterX/CenterY/Width/Height methods from PlasticView";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"80a408e2b1a3a04b55dc1176a7dbb64721417d09";"2016-11-27T16:30:55Z";"madbat";"Add offset to anchor's coordinate";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"047524a4ae510193046a020cab94856b3f7ba5cf";"2016-11-27T15:56:38Z";"smaramba";"Fix file headers";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"2970e7c6416128b6da87f63730bb63a6cc38254c";"2016-11-27T15:55:11Z";"smaramba";"Complete Demo";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"ef4fb4d1091675d1ce17a2a3f9099d39318fd246";"2016-11-27T15:03:43Z";"smaramba";"Add Button Element for macOS";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"50d5e97a0ac0138b48cf9345066c06ec437b8aa0";"2016-11-27T13:26:31Z";"smaramba";"Fix tests";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"fc034d54f50c19f094e6628487ab69b91513c6db";"2016-11-27T11:03:45Z";"bolismauro";"Merge pull request #83 from marcopaz/plastic-fit-method
+
+Add fit method to PlastcView";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e2845c6d22ed09ff39a4d6124eef63c0d1c0eb9c";"2016-11-26T23:18:16Z";"lucaquerella";"Update .gitignore";"Luca Querella";"luca.querella@gmail.com";110147,00
+"53f301763c01a258e72c3731291416bcf7283066";"2016-11-26T11:50:40Z";"marcopaz";"Add fit method";"Marco Pazzaglia";"marco@pazzaglia.me";918535,00
+"066db05b8d7b84a408445ec6b778b2b2d6e93328";"2016-11-25T21:56:52Z";"lucaquerella";"Rename Katana_macOS.h";"Luca Querella";"luca.querella@gmail.com";110147,00
+"282fffa5a5f7115964063a82d1dacac2d5a43acd";"2016-11-25T19:42:01Z";"lucaquerella";"Fix iOS tests";"Luca Querella";"luca.querella@gmail.com";110147,00
+"a7292a7467dc56e4f32dc1082ae2e22ddc1ebd5f";"2016-11-25T19:32:28Z";"lucaquerella";"Fix demo file structure";"Luca Querella";"luca.querella@gmail.com";110147,00
+"60ced708b6a1006edd3e9007b63c1e2183d3fbd8";"2016-11-25T19:21:19Z";"lucaquerella";"Align folder and xcode strucutre for Katana and KatanaElements";"Luca Querella";"luca.querella@gmail.com";110147,00
+"85e0af6179bd459f97bdcfc2f4678d8c15d78210";"2016-11-25T16:55:21Z";"smaramba";"Add utility functions";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"2b04ffb8e3d78d1347971ee5d6184817e68dcc90";"2016-11-25T14:49:32Z";"lucaquerella";"Re-order targets";"Luca Querella";"luca.querella@gmail.com";110147,00
+"123bf2ce77b74b9e246f52f4599a89e4b8d0b775";"2016-11-25T14:44:03Z";"lucaquerella";"Share schemes";"Luca Querella";"luca.querella@gmail.com";110147,00
+"62a56f1a0dfdfa5bbf7f3f1b5368667674043f07";"2016-11-25T14:43:16Z";"lucaquerella";"Remove unused folder";"Luca Querella";"luca.querella@gmail.com";110147,00
+"48cd6e93ad30de1a078a709bdc3557fb055ccadf";"2016-11-25T14:34:21Z";"smaramba";"Add resize to macOS Demo";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"200b8a7310b12d76d12cd56c1e63aa3af6880ab7";"2016-11-25T14:20:45Z";"smaramba";"Fix frameworks building";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"470078b51e0439416cabb6a3fbff7e73b45aa417";"2016-11-25T12:29:02Z";"smaramba";"Add first draft of demo for macOS";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"321604e3a83676659d15ff29ea55596f4289cb6e";"2016-11-25T12:11:24Z";"lucaquerella";"Fix KatanaElements macOS folder strucutre, plsit and building settings";"Luca Querella";"luca.querella@gmail.com";110147,00
+"ced89fa229fac1d40aeb5faa365add6d69775418";"2016-11-25T10:34:09Z";"lucaquerella";"Share Katana Elements macOS schema on git";"Luca Querella";"luca.querella@gmail.com";110147,00
+"5a302ef3bd97b93172f00993253acfa209aa5ec2";"2016-11-25T10:25:43Z";"bolismauro";"Fix typo";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"228c827c52990dd699ecfd041a291b9adaef3873";"2016-11-25T09:39:02Z";"smaramba";"Move Demo inside IOS directory";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"eea0c23cb779ebea86e441aa46c34759f481e6f1";"2016-11-25T09:30:13Z";"smaramba";"Add View Element for macOS";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"95484a2031c61a2e1ab065924bd1a6ba5ed773c8";"2016-11-25T09:06:30Z";"smaramba";"Add Tests for macOS";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"f4f58c9f0c83f5f7621395d5ed553ac73cb6e830";"2016-11-24T16:08:47Z";"smaramba";"Remove UIKit references from Tests Core";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"8d7f609a6626d6fe52f4e63f55238f8f5477cd56";"2016-11-23T12:43:04Z";"bolismauro";"Add PR template";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"503ae6f70a7eaef2a6c4065811d32b05902aaf33";"2016-11-23T12:24:00Z";"lucaquerella";"Fix CI";"Luca Querella";"luca.querella@gmail.com";110147,00
+"4d1aa6d329b32e94b84f60b9c5b206237e374fa7";"2016-11-23T12:22:17Z";"lucaquerella";"Move KatanaElements to KatanaElements/iOS";"Luca Querella";"luca.querella@gmail.com";110147,00
+"3d000e36219d7d76f835d009ddbe4255ff554ef9";"2016-11-22T22:09:23Z";"lucaquerella";"Make it compile";"Luca Querella";"luca.querella@gmail.com";110147,00
+"e4498bf9c7fd018f8301faede944a9af589a8581";"2016-11-22T20:44:59Z";"bolismauro";"Merge pull request #80 from BendingSpoons/fix/documentation-partial-adoption
+
+Add gradual adoption to README";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"53283087e5143d22de9f67d7135d0c84461d7ee1";"2016-11-22T20:40:21Z";"bolismauro";"Add gradual adoption to README";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"b7e05d1f0b12218e692e17ba9b3529ed3ace07b0";"2016-11-22T20:39:48Z";"lucaquerella";"Update README";"Luca Querella";"luca.querella@gmail.com";110147,00
+"037c6b856450c3bd3f7af7d7e2b8cf2078c86fca";"2016-11-22T20:10:15Z";"lucaquerella";"Fix SwiftLint";"Luca Querella";"luca.querella@gmail.com";110147,00
+"9dda517144c6c8b60c49fab0dca1e1e5bbad06ad";"2016-11-22T20:03:31Z";"lucaquerella";"Move Katana.h and Info.plist in iOS/";"Luca Querella";"luca.querella@gmail.com";110147,00
+"a4ce6228303147a0bd323cc256d2a9a8e5d76c4b";"2016-11-22T19:38:00Z";"bolismauro";"Merge pull request #78 from BendingSpoons/hotfix/plastic-node-typos
+
+Fix Typo In Renaming";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"3d4345dbf884a5f039cb08c7ae935b2fabbd679d";"2016-11-22T17:30:18Z";"sroddy";"Fix Typo In Renaming";"Stefano Rodriguez";"sr@bendingspoons.com";729934,00
+"bf28873976eefa2ece3430397b9a497b3f9027b6";"2016-11-22T16:08:24Z";"bolismauro";"Make state public";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"536eef9a222d76f1f13946dab41ac739f8826c24";"2016-11-22T12:48:15Z";"smaramba";"Improve naming of the Frameworks";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"f59092400060c6c09e523cf86802b088488171af";"2016-11-22T11:32:07Z";"madbat";"Merge remote-tracking branch 'BendingSpoons/master' into anchor-dsl";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"dde411e27ce2b3bb6b180bcd2738e0198ded2bc3";"2016-11-22T11:31:58Z";"madbat";"Add tests for laying out plastic views with anchors with offsets";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"6d552f2863c3821d01eb021cc9b042a3d29cde01";"2016-11-22T10:49:13Z";"frankdilo";"Set View's props isUserInteractionEnabled to true by default
+
+Views are very commonly used as containers for buttons and other controls. Having `isUserInteractionEnabled` set to false by default doesn't allow interaction with the contained components.";"Francesco Di Lorenzo";"fradilorenzo92@gmail.com";715405,00
+"29488144bd5ec27b02d3fcb7bf73af5988185386";"2016-11-22T10:44:38Z";"madbat";"Merge remote-tracking branch 'BendingSpoons/master' into anchor-dsl";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"599fdb9240cddb37a1736a414e562cc38ce1830d";"2016-11-22T10:42:42Z";"madbat";"Merge remote-tracking branch 'BendingSpoons/master' into anchor-dsl";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"691f3f50a9ea1e8330a33ae9b96c01e0e6a76be9";"2016-11-22T10:37:53Z";"bolismauro";"Fix AnimationUtils fix";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"2e04d1750e6d502f9d054fd7ad3ca265972e9574";"2016-11-22T10:32:26Z";"madbat";"Add `scaled` and `fixed` properties to `CGFloat`, `Double` and `Int` as a convenient way to instantiate `Value` instances";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"16a891895d8ec6d78cef2ac2af2d5c1c96e77224";"2016-11-22T10:22:56Z";"madbat";"Make Value conform to ExpressibleByIntegerLiteral and ExpressibleByFloatLiteral
+
+This allows `Value` instances to be initialized by integer and floating
+point literals, having the scalable part equal to the numeric literal,
+and the fixed part equal to 0.";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"480c2cf128b1713e6d91e913510e4286c78ee4a7";"2016-11-22T10:12:16Z";"madbat";"Add missing operators to Value for completeness
+
+This commit adds the `+=`, `-`, `-=`, `*=` and `/=` operators to Value";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"05e3f5c9bdf7aad089b822de2c8da26bc845461d";"2016-11-22T09:51:30Z";"bolismauro";"Merge pull request #75 from zld/patch-1
+
+Update missing code hightlight";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"0438cb7f3da79f9330bfcacd3c8e9ab547613630";"2016-11-22T09:44:41Z";"madbat";"Support anchor's new offset property in PlasticView setters";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"b5c634a236e69558ab04fa7e10fff234e37064b9";"2016-11-22T09:44:02Z";"madbat";"Add ability to add an offset to an anchor through `+` and `-` operators";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"ba74bf99d3f0127cbf22f110b1cce35c64ab7307";"2016-11-22T09:42:54Z";"madbat";"Add offset property to Anchor
+
+Add an `offset` property to `Anchor`, in order to be able to set
+anchors at a certain offset from the receiving view's anchor";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"7c02e86b459d32a8fc10030a1eb870c439ab5585";"2016-11-22T03:04:17Z";"zld";"Update missing code hightlight";"Zhu Lida";"zhu.lida.cn@gmail.com";2616502,00
+"c13ee22ae3d69d5f0bdf334b0e33bc9fb5424d60";"2016-11-21T17:51:09Z";"smaramba";"Use typealias for EdgeInsets";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"6b75ac74313bece17ed567b8f9025fe3da16527f";"2016-11-21T17:30:39Z";"smaramba";"Change scheme names";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"59eacd69cb88a93714fd7dbdf6de53b9d10167df";"2016-11-21T17:27:02Z";"smaramba";"Move files";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"51f60c8be17b90152fe1c6860a1db6630ade6311";"2016-11-21T17:05:59Z";"smaramba";"Add DefaultView";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"cd61e507d0d8fdc05af540c8c770bd9408c6d11a";"2016-11-21T16:32:14Z";"smaramba";"Add Katana macOS scheme";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"aea20dee841c76e8c89230d22f8641b4dbc70ec3";"2016-11-21T16:31:32Z";"smaramba";"Remove Katana macOS Elements and Demo";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"cb3d70d84f14578f1845e9eab07c7c81436888ec";"2016-11-21T16:18:27Z";"smaramba";"Move files to correct folder";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"4f32c457c47353a3f4d8085af95c745934c49b80";"2016-11-21T16:12:27Z";"smaramba";"Use correct availability check for macOS";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"5689e5ab34e4d6b5cdcbada27dc4f0070973733d";"2016-11-21T15:29:06Z";"smaramba";"Add final implementation";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"ba402cf6cd6a484105d93f022d84a00f8176684a";"2016-11-21T14:53:32Z";"bolismauro";"Fix reRender callback";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"5806b3b6a3d3681e83d60cfcff9191d2fbed7ffd";"2016-11-21T10:54:43Z";"bolismauro";"Merge pull request #73 from BendingSpoons/hotfix/appcode-gitignore
+
+Add .idea to .gitignore";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"06e94fc11b0a45ddce540ce31307aa79aa5e13d4";"2016-11-21T09:04:46Z";"smaramba";"Abstract animations to work for both iOS/macOS (macOS still not implemented)";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"0ed93c1fbc1c71ca9f824b6cc97f6fecab83b76e";"2016-11-20T18:28:46Z";"sroddy";"Add .idea to .gitignore";"Stefano Rodriguez";"sr@bendingspoons.com";729934,00
+"a8d46c7ea4faf8391649a10d7c8a6a45f5e08a53";"2016-11-20T15:44:28Z";"marcopaz";"Fix typos";"Marco Pazzaglia";"marcopaz@users.noreply.github.com";918535,00
+"6e5a145902205537101ebc748bd0eae8e43cbe04";"2016-11-20T09:35:33Z";"bolismauro";"Fix Cocoapods instructions";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"1aef08017e6fd6a7b68ab91c0a0fe23f79d0e62d";"2016-11-19T17:02:47Z";"smaramba";"Introduce PlatformNativeView
+Introduce Katana for mac OS
+Add Katana for mac OS Demo";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"72a6d3c058ea02dab11c92b31da3b9a6eec64d78";"2016-11-18T13:53:21Z";"smaramba";"Move all UIKit dependencies out of Katana Core";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"5259e5b4911ae058e5b1a7b30895ad8b401537b2";"2016-11-18T09:35:50Z";"bolismauro";"Merge pull request #72 from BendingSpoons/update-documentation
+
+Update documentation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"4f24cecc5b7210d7e152a6874df221945f7acd50";"2016-11-18T09:32:39Z";"ParideBifulco";"Update documentation";"ParideBifulco";"pab@bendingspoons.com";15627314,00
+"91170e62868be589e264f0a51320b36e2bd405f1";"2016-11-17T22:04:01Z";"bolismauro";"Merge pull request #71 from BendingSpoons/fix/int-extension
+
+Move rename and fix header of Int+Katana.swift";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"1f9101e172b476171335bb21a72bc2dfdc5661a4";"2016-11-17T22:00:09Z";"lucaquerella";"Move rename and fix header of Int+Katana.swift";"Luca Querella";"luca.querella@gmail.com";110147,00
+"d6d12994c05cbf0a92a928daf7d1c11369c6d7bf";"2016-11-17T15:09:02Z";"alaincaltieri";"Release 0.2.0";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"517d8fda30095741faf8b24fea3b6ae4c678e023";"2016-11-17T14:55:21Z";"alaincaltieri";"Refactor docs structure";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"310b5222336c78ff05d6d3729b48fbddfbd554d7";"2016-11-17T14:51:34Z";"alaincaltieri";"Update Docs";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"2565077f2c6d36f66692f222e342ed29d2af1df8";"2016-11-17T14:49:39Z";"alaincaltieri";"Fix header image in readme";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"70218a91f8b94402cb5a7beb075dd76b8a21f38e";"2016-11-17T14:26:51Z";"alaincaltieri";"Skip podspec linting
+
+since Katana and KatanaElements are related and cannot be linted automatically";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"9a3305798f6d9a074e5b7aee786e0bc03ecb6445";"2016-11-17T09:42:05Z";"alaincaltieri";"Add Sling file";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"6df33b51a83ed74f93352f0bd5d2c2fe7b0d7552";"2016-11-17T12:37:57Z";"bolismauro";"Update header in README";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"6983219259b1ea5a314057497865b495e24613f1";"2016-11-17T11:33:25Z";"lucaquerella";"Update README.md";"Luca Querella";"luca.querella@gmail.com";110147,00
+"a83281c477c70385309ddf376ccbefbe9063129a";"2016-11-17T08:40:54Z";"alaincaltieri";"Add Cocoapods documentation metrics badge";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"3518f9ea989160cee598decbe68c78f8b5650548";"2016-11-17T08:24:28Z";"alaincaltieri";"Fix Cocoapods Shield";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"3a6b390023d4e8c01cb8d4b71ed72cfb9714b282";"2016-11-17T08:15:24Z";"alaincaltieri";"Add some badges to the readme";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"0d6dffbc3a5ae7196738585cb27cdfb50e921784";"2016-11-17T08:12:49Z";"bolismauro";"Update README.md";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"41afb94ed3335b28845ff7dc5d18959e57e836e8";"2016-11-17T08:01:03Z";"bolismauro";"Merge pull request #68 from BendingSpoons/fix/updateRenderer
+
+Update Action.updateRenderer to be an instance method";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"3132ec2c8dd3ba6957b7a307ea22cbfca121c2b9";"2016-11-17T07:59:38Z";"bolismauro";"Update docs";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"8d211bc236a7f77f22d3d5203a05771f7cad8c68";"2016-11-16T21:12:01Z";"smaramba";"Update Action.updateRenderer to be an instance method";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"462f60a3f3459c807553bedb222dcbd6c3c7a420";"2016-11-16T16:15:38Z";"bolismauro";"Rename Node variable";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"bfb6a865bf1a829b1b4058cdd9299558e9be4e62";"2016-11-16T13:00:17Z";"alaincaltieri";"Update Documentation";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"1354786088b708b53a40a26cbfc1df8db49ab73c";"2016-11-16T11:18:48Z";"bolismauro";"Update the Katana roadmap";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"bf342df792580f44ae0e6f3ed9f5bc555b1d8ba1";"2016-11-16T10:04:30Z";"bolismauro";"Update README";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"fedb08c1facc54324064ad1e9f6529ba08f6a6bd";"2016-11-16T09:21:48Z";"bolismauro";"Merge pull request #65 from BendingSpoons/fix/renderer
+
+Fix the access to the renderer from every node";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"20df4d8ea9ffeb43d84c32a089a96346e5c5e72c";"2016-11-16T09:09:10Z";"smaramba";"Fix the access of the renderer from every node";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"9b63c52a2239157778f2619b63ac25ce79738df2";"2016-11-15T18:16:00Z";"bolismauro";"Fix counter demo
+
+Thanks to @luhagel for spotting the problem";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"c137d85ec72c94806da23b0f02637fdca6c2d55d";"2016-11-15T16:54:40Z";"lucaquerella";"Update README.md";"Luca Querella";"luca.querella@gmail.com";110147,00
+"532d0b0c83f3a3f945fdcd1a0a5131dbaa251d71";"2016-11-15T16:22:46Z";"alaincaltieri";"Fix documentation link";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"f4bceb9696c692f7ce78c127f1397ea789cd248c";"2016-11-15T16:22:54Z";"bolismauro";"Add tutorial link";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"3c17567c4ac0a8e0d0ded4a702218451b02ee455";"2016-11-15T16:19:57Z";"alaincaltieri";"Regenerate documentation";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"79b1819ca420ef689df5ff1bbdc4a9d67056a545";"2016-11-15T16:20:26Z";"smaramba";"Update emoji";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"b0055e2822ae29f5c588bba5cb6e8be43fca90a9";"2016-11-15T15:59:50Z";"alaincaltieri";"Add documentation";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"62218d54cae97f075e60304dd711cb3f7d14a5a6";"2016-11-15T15:54:36Z";"bolismauro";"Update README.md
+
+Fixes #59";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e0f92230417ac41418b92054b577af104612cf13";"2016-11-15T15:45:59Z";"bolismauro";"Update Readme.md
+
+Add cocoapods install instructions";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"3fa013dca6d1d7188dffa673cf9f8a8b4adf123d";"2016-11-15T15:31:01Z";"alaincaltieri";"Refactor podspecs";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"9b1fcb3280a45f17264f387ad19b3419b067f5b7";"2016-11-15T14:28:31Z";"bolismauro";"Merge branch 'master' into feature/ci";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"5d655a88867b91e56181ce0dd76ef4bb9ee20e1e";"2016-11-15T14:28:22Z";"bolismauro";"Remove Katana Elements dependency";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a7a4703845da36a088983e8783fda4f968d23f96";"2016-11-15T14:05:06Z";"alaincaltieri";"Try to avoid Travis builds rendom failures
+
+Add warmup of the simulator and retry on build command";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"b71fc62f3ea0bafc2976e55e3c32fa75b6e319cc";"2016-11-15T13:24:36Z";"lucaquerella";"Update the README";"Luca Querella";"luca.querella@gmail.com";110147,00
+"634eb8262069ebad13f157a3f503dec897016963";"2016-11-15T13:11:34Z";"alaincaltieri";"Fix simulator env var in travis.yml";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"3dc1b4fb06e79dbee1e503cfbb5b65aacc0783ec";"2016-11-15T12:55:27Z";"alaincaltieri";"Explicitly select simulator";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"9ce3b2fed1beca5e3021ebc9c062f4a79bc4eb64";"2016-11-15T12:40:47Z";"alaincaltieri";"Bugfix build command";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"03319fdd1d0bf1cfefc008c5d65f47b914fcc8e4";"2016-11-15T12:22:35Z";"alaincaltieri";"Update travis.yml to avoid using xctool
+
+xctool is the default in TravisCI, but it doesn’t work with Xcode8";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"eeea132e9c6c893a8b1c9808d822796dc3d18e82";"2016-11-15T09:26:17Z";"smaramba";"Update PokeAnimations image";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"1ba165f8afefab6f4a5b20c1a4e037dc1179390f";"2016-11-15T09:22:44Z";"smaramba";"Update README images";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"ede9b1f4e31f586598286be77aabdda9cd76afef";"2016-11-14T20:32:10Z";"bolismauro";"Merge pull request #63 from BendingSpoons/fix/lint
+
+Update to new swiftlint";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"09228457b495fff7e9308ae406c47aab17b2d1ba";"2016-11-14T17:26:28Z";"bolismauro";"Update to new swiftlint";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"09ff385ba1fcb46534def9ae6a24f6f4b1352f3d";"2016-11-14T16:13:52Z";"alaincaltieri";"Add travis CI status for master branch";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"360edcf03eb5919504ea8a726016165ee9e1418e";"2016-11-14T16:06:26Z";"alaincaltieri";"Merge branch 'master' into feature/ci";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"4e832fbb67faefe9f4904d8cbfe24a453ca1151b";"2016-11-14T16:03:22Z";"alaincaltieri";"Update podspec and template";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"9742e0c9e1b9907587b44af7641d41776063c3df";"2016-11-14T15:51:17Z";"bolismauro";"Add AsyncAction snippet";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"84e54468f8f29a92077e7a526af6bc19d764c7d7";"2016-11-14T14:17:27Z";"smaramba";"Add Minesweeper to README
+Update the CodingLoveDemo gif";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"191f44a3488e1b026817475c38f6e4e997621ccb";"2016-11-14T13:59:26Z";"bolismauro";"Merge pull request #60 from BendingSpoons/feature/minefield-demo
+
+Minesweeper Demo";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"700b5ec654236444a25bcb74f051ed1b2da6bd00";"2016-11-14T13:56:26Z";"smaramba";"Add README";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"23e68eacf4bde41daa1d25112760b00d97342d77";"2016-11-14T13:21:09Z";"smaramba";"Update addressing the comments";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"a61a63dee17479739cca53beb38527dbe826bbc5";"2016-11-14T13:16:42Z";"bolismauro";"Merge pull request #61 from BendingSpoons/hotfix/README-typos
+
+Update README.md";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"eef9878afa80acaddd36f631434c26fc54f0f394";"2016-11-14T13:14:45Z";"alaincaltieri";"Add Podspec template";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"e030d52047307305f0b376d5e53e98d9613f53cc";"2016-11-14T13:14:07Z";"sroddy";"Update README.md
+
+I've spotted some minor typos";"Stefano Rodriguez";"sroddy@users.noreply.github.com";729934,00
+"4cbe8158628d4f91769dec21d043446efa1bf17c";"2016-11-14T08:26:53Z";"smaramba";"Update naming";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"2dfd449531efecd5719eb206c8c100d63b98ce0e";"2016-11-14T08:16:13Z";"smaramba";"Add capital letters";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"cac6f526df62c3641a25f58ac130204ac83e6caf";"2016-11-13T19:37:05Z";"smaramba";"Add Minesweeper Demo";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"55c69a2325ccdfb753b05906ee4b2eb2af2f91f7";"2016-11-11T13:48:35Z";"smaramba";"Add empty minefield project";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"15a41e0dba30b4b6d821c28cb76917973a20e0a1";"2016-11-13T19:34:38Z";"bolismauro";"Update README";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"65d22e0ad1ecd6490e047304ad2a9e4b6acd1479";"2016-11-13T19:18:55Z";"bolismauro";"Merge pull request #58 from BendingSpoons/feature/xcode-snippets
+
+Add Xcode snippets";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"88c674a37fa60995f079330aab6136e883722ae9";"2016-11-13T10:39:05Z";"bolismauro";"Add Xcode snippets";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"2478b5468ad23fa4642bfe04cf364ee40dcf5d10";"2016-11-11T17:02:06Z";"smaramba";"Merge pull request #57 from BendingSpoons/readme-xcode-typos
+
+Update README.md";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"6705119fbcdffe6c55a47a56455c307820a58e4f";"2016-11-11T16:57:08Z";"madbat";"Update README.md
+
+Fix `XCode` -> `Xcode`";"Matteo Battaglio";"m4dbat@gmail.com";325137,00
+"ea1a7a02f4331ce84c6e877383da8b072ca43040";"2016-11-11T16:49:39Z";"smaramba";"Add missing links to README";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"f873140f92fab750f4d2d305fcfea366a52c735d";"2016-11-11T16:44:01Z";"bolismauro";"Remove useless files";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"98070297f1cef0ce8d49e97a7f5bf48c23c5693f";"2016-11-11T16:39:49Z";"bolismauro";"Merge pull request #30 from BendingSpoons/feature/readme
+
+Create README.md";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"34cc795ebd253aa4f7adcb16c8d6947e9972a721";"2016-11-11T16:39:33Z";"bolismauro";"Merge branch 'master' into feature/readme
+
+# Conflicts:
+#	Demo/Actions/DecrementCounter.swift
+#	Demo/Actions/IncrementCounter.swift
+#	Demo/AppDelegate.swift
+#	Demo/Assets.xcassets/AppIcon.appiconset/Contents.json
+#	Demo/Info.plist
+#	Demo/State/CounterStat";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"525f2a6a6d0f799fe17ee56b34e075dde0508c16";"2016-11-11T16:06:00Z";"bolismauro";"Merge pull request #56 from BendingSpoons/fix/elements-extensions
+
+Add namespace for Katana Elements propertie structs";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"aeea196bcf2822b92c059aa9de3f302e087f16aa";"2016-11-11T16:02:29Z";"smaramba";"Add LaunchScreen to Demo";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"ade20a13df1decb5ff9a1b4a64a09043c17b69c3";"2016-11-11T16:01:52Z";"bolismauro";"Add namespace for Katana Elements propertie structs";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"fb86ffb89a87f855b94db4fa7ba94e9053727515";"2016-11-11T15:03:21Z";"smaramba";"Update Katana GitHub name";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"b1c19e019b217c737f8bbb45857d7a91ca4e0d35";"2016-11-11T14:54:28Z";"bolismauro";"Fix shared schema";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"41ba5b2303cfc76959e1799e311a6a279ec91ff5";"2016-11-11T12:27:57Z";"smaramba";"Change `Efficiently` -> `Automatically`";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"dbae15275a3317e7324d4e835be21833c08ec6d4";"2016-11-11T12:26:40Z";"smaramba";"Update Readme with corrections";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"8ce2d183b20edb43a8626db91f91e5aa88505593";"2016-11-11T12:20:34Z";"smaramba";"Remove duplicated example from table";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"ac998ac39b46cb95c876baa8f488b32c01204f9f";"2016-11-11T11:28:41Z";"smaramba";"Move example description on top of the image";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"8042fdecfc63225eb7939f037555d0b51be3e5d9";"2016-11-11T11:27:23Z";"smaramba";"Change size of the example link";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"22763d467c2ea638aba64b18932487f45508ffff";"2016-11-11T11:25:35Z";"smaramba";"Rename counter asset";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"218435bf46c4516e228ccc9ef6d1a0da5f204df0";"2016-11-11T11:24:45Z";"smaramba";"Update counter image";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"69d04c17265399f25c2e3cc07519986f84756650";"2016-11-11T11:19:42Z";"smaramba";"Add twitter handles";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"9d81b981eeb27faf165c73f1e56e9704a8126fbb";"2016-11-11T11:15:46Z";"bolismauro";"Update references to Katana repository";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"4b8beeff3753e6af641930140f79ce55b0859d85";"2016-11-11T11:11:13Z";"smaramba";"Add link to the documentation";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"ddcf219d7db974d6e8951285169609505409f928";"2016-11-11T11:08:12Z";"smaramba";"Add link to codingLove example";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"163ec4de6aaf9ac5c679c2538bb5282921edf844";"2016-11-11T11:06:55Z";"smaramba";"Rename codingLove asset";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"6a136aca64ef5014da811ca13a76b54a81cb5595";"2016-11-11T11:05:15Z";"smaramba";"Rename codingLove image";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"a6cce2071e7ff75205639af8cc94244bb340f297";"2016-11-11T11:04:37Z";"smaramba";"Add codingLove demo";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"8589d7d9491ae74a4091c2f99d33ece69f569db3";"2016-11-11T10:47:17Z";"smaramba";"Add examples";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"a48bce4cdd3dd7cbf1ebe025b60ee15e9d585cff";"2016-11-11T10:41:05Z";"smaramba";"Update logo";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"5aa6f8cffd254ca2345db28ccccb16af96889797";"2016-11-11T10:29:38Z";"smaramba";"Introduce Sync and Async actions
+Move Logo inside Assets";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"6ee899e45238dcc34dc91bc04d67357369969ea7";"2016-11-11T09:42:14Z";"smaramba";"Add changes reacting to LP feedback";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"dafc10e8e37a6267db9def2501eb4776a0147dfb";"2016-11-11T09:32:07Z";"bolismauro";"Merge pull request #55 from BendingSpoons/feature/CONTRIBUTING
+
+Add CONTRIBUTING file";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"d3003c515f4be48f1bdb2e5cfa0ab111e1efb10e";"2016-11-11T09:31:55Z";"bolismauro";"Improve CONTRIBUTING.md";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a11e6d871ef9999db071c64c7af63153bfee5e40";"2016-11-11T09:19:51Z";"bolismauro";"Remove xcuserstate";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e42ed55e35013419818209558e8773b39185bb09";"2016-11-11T09:14:33Z";"bolismauro";"Add CONTRIBUTING file";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"0096287df3ad3e0cd55bddf0a80a7ace91af41d1";"2016-11-11T08:42:13Z";"smaramba";"Update the README to improve `logic <-> UI` paragraph";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"f549570a3fc174d210956e93b61bf2fd779b3062";"2016-11-11T08:37:59Z";"bolismauro";"Merge pull request #53 from BendingSpoons/feature/animation-demo
+
+Feature/animation demo";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"6f54fb69c0a0711dc7ea85aae4afefff9d11112c";"2016-11-10T19:05:55Z";"bolismauro";"Improve demo animation README";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"88e0138ca09182e446e1f9d375075345d14c5fbe";"2016-11-10T18:43:53Z";"bolismauro";"Improve consistency";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ad0d12a2711d6db48e497561f5e30fa15a40b84b";"2016-11-10T18:42:50Z";"bolismauro";"Split variable to improve readability";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"7285bbf77ba7fe9c0f77c21c0b4129fbd6473371";"2016-11-10T18:42:03Z";"bolismauro";"Rename variable";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"4582f14e808bb7fa401148e6057142fc00eba6bc";"2016-11-10T17:03:57Z";"alaincaltieri";"Share katanaElements Scheme";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"9c2b713656ea25aae1d45fce9b132b6ad1b97698";"2016-11-10T16:44:42Z";"smaramba";"Use short NSAttributedString initialiser";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"d6dc20da2c9d5d623579bf1a0baaea51e6915e9d";"2016-11-10T16:41:26Z";"smaramba";"Update README to react to MB comments";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"3503e1cef2f4d8bfe39b063924275601245ef8ee";"2016-11-10T16:18:44Z";"smaramba";"Rename directory Nodes -> UI";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"c9d456277704628f20dbf399aa77dea1656f6bb8";"2016-11-10T15:44:57Z";"smaramba";"Update Demo";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"62746f77d4507adbffdcc0281c64c375ed385d57";"2016-11-10T15:38:55Z";"bolismauro";"Fix README";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"23475286d774f0210ecb35425e93e5c3e1bb16b2";"2016-11-10T15:37:33Z";"bolismauro";"Add README";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a703ca8a793e1678bdd8174e6314c7c167170d2c";"2016-11-10T15:37:29Z";"bolismauro";"Remove the status bar in the example";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"83aca7a84ac0c84289481cf59f05c83a1f8c788e";"2016-11-10T15:29:38Z";"smaramba";"Add `PlasticNodeDescription` and `PlasticReferenceSize`";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"e333f072b719b194bea50c6d007d0384b217e5c1";"2016-11-10T15:23:59Z";"bolismauro";"Add ATTRIBUTIONS file";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"4e1496f643c1849f506a8829cbb629d21e23a3d3";"2016-11-10T15:15:26Z";"bolismauro";"Polish implementation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"09a0755a41829e5a283045648ac37ca7a0c6e0ea";"2016-11-10T15:15:20Z";"bolismauro";"Move animation transformers to Katana";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"bd10e0a137c17f70bb7164cca13d4c4b9e0b5bd1";"2016-11-10T15:14:25Z";"smaramba";"Rename `CounterScreenProps` -> `PropsType`";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"bc716d777d9c8eb0d1711b08cbb591607334f9b1";"2016-11-10T15:00:19Z";"bolismauro";"Fix highlighted color";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"2123524455c150c1c260f41cb089a1b0f3efc24f";"2016-11-10T14:57:54Z";"bolismauro";"Add animations";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"f9e4f2b1d7bdb1b152332c386ff7fb8c22a2aece";"2016-11-10T14:53:06Z";"alaincaltieri";"Add basic .travis.yml file for tests only";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"e4a32f855cf2f250a64f7a5c0dc856f0dfe6184e";"2016-11-10T14:27:13Z";"bolismauro";"Add code for static UI";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"028f0b4a3d6269b02172e6619c0b8bd5b171396e";"2016-11-10T14:25:22Z";"bolismauro";"Fix bug in Button";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"393880e3de0985b473b2909cd08b05ebf89445e2";"2016-11-10T14:02:55Z";"smaramba";"Add new update for README";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"32f3b601f49e933d21b9695eb6a2969fef2f9d6b";"2016-11-10T13:58:34Z";"bolismauro";"Add initial animation demo code";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"433472e4fe5640a56d9742530f77fe203aead92f";"2016-11-10T13:43:29Z";"smaramba";"Update README reacting to MD comments";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"968c5bf97d19ff7cccee99a72c53ef4a6a562961";"2016-11-10T12:56:40Z";"alaincaltieri";"Merge pull request #46 from BendingSpoons/feature/demo-thecodinglove
+
+Demo thecodinglove";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"de2c736be76a7a4adee10e92dd4ac61430da15b4";"2016-11-10T12:48:31Z";"alaincaltieri";"Rename root to renderer";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"aaf5af4d370b87421fa0850c31f0706bb497d6c3";"2016-11-10T12:47:59Z";"alaincaltieri";"Resolve conflicts of merge with master";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"b6badee96ee17091154c116c3376ac82c97d9d61";"2016-11-10T12:40:20Z";"alaincaltieri";"Merge branch 'master' into feature/demo-thecodinglove
+
+# Conflicts:
+#	KatanaElements/Table/Table.swift";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"8a05abdb3d9177947d707f7629a543cea7d19768";"2016-11-10T12:38:09Z";"alaincaltieri";"Rename Nodes to UI and change bundleId";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"46bc44a4190acddfbfdafb9efb108d1a582bb4c2";"2016-11-10T12:28:29Z";"alaincaltieri";"Lint Code";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"c948b3f71f6d6029c2075db1da5092661d5d4c7e";"2016-11-10T12:27:46Z";"bolismauro";"Add basic animation project";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ad03d7811d48b9d3ae0a6f4083890f004f9e750a";"2016-11-10T12:26:36Z";"bolismauro";"Fix issue that prevents compilation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a7d7c9cfd6f5ad97893d03bd392efac3461387b4";"2016-11-10T12:26:36Z";"bolismauro";"Fix issue that prevents compilation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"67e97141ad7b105df92e4420b5498ee041af3886";"2016-11-10T12:16:12Z";"bolismauro";"Merge pull request #38 from BendingSpoons/feature/animation-improvement
+
+Refactor Animations";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"45cd8f607ddb2ec8d4000968ad6887b5ace57658";"2016-11-10T11:00:15Z";"smaramba";"Update copy";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"3a452b2523501492bc2c3aa9bbb99f77cffa1444";"2016-11-10T10:57:13Z";"smaramba";"Add Table";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"d986973bc9dc44d61d1ffa1ce86d2a635c1abc40";"2016-11-10T10:49:46Z";"alaincaltieri";"Add licence headers";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"a5e537fa4206e63baad692894dcc0ee2be11c8ca";"2016-11-10T10:46:33Z";"bolismauro";"Improve Node code splitting";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"5dfff05bdc7d7738faaf6a4c7475af419832c10b";"2016-11-10T10:44:51Z";"alaincaltieri";"Resize demo gif";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"704a3279b3353f6ee7778e5ad314891987b02472";"2016-11-10T10:43:32Z";"bolismauro";"Improve Node animation id";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"8d18088c8981a79fc52218244d443514b8ebb8af";"2016-11-10T10:38:22Z";"bolismauro";"Remove useless Void and use () instead";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"0c64a968aba38e793784f0fbb828295e6621e3a2";"2016-11-10T10:37:20Z";"alaincaltieri";"Add readme";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"4beebfea5d4313cc3910d74eedf49115e1399194";"2016-11-10T10:27:44Z";"bolismauro";"Fix typos";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"bb0c056b1c994248002a613435b8bde7ec3ec2b4";"2016-11-10T10:26:20Z";"bolismauro";"Rename method";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"9be4964b053e18ea14e27ddf05914878262d8975";"2016-11-10T10:14:11Z";"smaramba";"Readme iteration";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"7b156c8c56efb05ef02de41b1375752d7c22d8cf";"2016-11-09T22:41:32Z";"bolismauro";"Update headers with license
+
+Updating headers according to the LICENSE Pull Request";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ff6721e939fc27e294ec5d555f9130c3cb048da5";"2016-11-09T22:40:18Z";"bolismauro";"Merge branch 'master' into feature/animation-improvement
+
+# Conflicts:
+#	Katana.xcodeproj/project.pbxproj
+#	Katana/Core/Animations/Animation.swift";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"c909bba135b03d09407985e1235d75c05f3175c1";"2016-11-09T20:33:31Z";"bolismauro";"Merge pull request #50 from BendingSpoons/feature/LICENSE
+
+Feature/license";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e8ddc0cfc4fb4bd8e0863b40305d0b11e90d76dc";"2016-11-09T20:17:20Z";"bolismauro";"Update headers with license";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e18fb0611bc16fed02f594510c69379051712690";"2016-11-09T17:28:03Z";"bolismauro";"Add LICENSE";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a47f821c64a646ef7b89d93c0e21e82530c40d02";"2016-11-09T17:26:19Z";"alaincaltieri";"Remove post too aggressive";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"d2aab94c574507461ff04cd2a0ffddcd3af1e1ec";"2016-11-09T17:16:02Z";"bolismauro";"Merge pull request #49 from BendingSpoons/fix/asyncAction-sideEffect
+
+Fix #40";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"5b24d4224ebf449809677835a680fa46df4d3962";"2016-11-09T17:15:31Z";"bolismauro";"Fix #40";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"6071fb8fdff9a2630c3547bb031c968bd2acdbbd";"2016-11-09T17:02:35Z";"alaincaltieri";"Refactor FetchPosts function";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"eaeb76dbe9bdf5740eb7714f7f1bd99b0b932130";"2016-11-09T16:42:03Z";"alaincaltieri";"Solve some styling issues";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"139d54d327d759a53228ddfad166ea42ff80b3a5";"2016-11-09T16:38:21Z";"alaincaltieri";"Change fetchPosts signature and invoke it with trailing closure";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"854e72d4d5ec93deef14f0e35c3906d17cadc8ec";"2016-11-09T16:33:11Z";"alaincaltieri";"Use tuple for passing PostsProvider result";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"a6d08a94665d4c1420117823f6861bed85dae65c";"2016-11-09T16:30:26Z";"smaramba";"Fix #43";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"37d7d5e9c2eadeb1b7ceaccbbf4014a7d6b6d03b";"2016-11-09T16:23:39Z";"alaincaltieri";"Remove IDE file";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"20b2fd76c7f45247b4ef77f0f06ed52cea719e4f";"2016-11-09T16:18:30Z";"alaincaltieri";"Avoid trying to load Storyboard";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"c387b65f08623bd478d98103276af4f91dcb24fb";"2016-11-09T16:17:03Z";"alaincaltieri";"Remove Storyboard";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"63ce21d163617245b97dfe4e2681ecb626e19815";"2016-11-09T16:13:37Z";"alaincaltieri";"Rename Project";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"e4b4bc62aba69d5da79414cea70ee6b0bb2c3030";"2016-11-09T16:11:15Z";"bolismauro";"Merge branch 'master' into feature/animation-improvement
+
+# Conflicts:
+#	Katana/Core/Node/Node.swift
+#	KatanaTests/Core/NodeTest.swift
+#	KatanaTests/Plastic/PlasticNodeTests.swift";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"d9ab223c3ed5a4df00fa3c5dcd62637fcf7253ed";"2016-11-09T16:03:30Z";"smaramba";"Add default implementation of isEqual to the table delegate";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"204b7c896a306050db3b9e79c59bdebff1e91e40";"2016-11-09T15:59:18Z";"bolismauro";"Refactor props handling, fixes #39";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ebc1195407e2b7147b3ec888eb036cd7f71617c9";"2016-11-09T15:43:49Z";"bolismauro";"Merge pull request #45 from BendingSpoons/fix/root
+
+Node root and treeRoot confusion";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a68aec4f26b45d2bc1763bf52ff6e3ef695e580b";"2016-11-09T15:42:03Z";"smaramba";"Remove comment";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"69b8cf34f0949838ccc813364f8de7af76d63b72";"2016-11-09T15:40:02Z";"smaramba";"Update the readme using Renderer
+Updates on the copy";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"ea7b5157c42009a946ff1998ffce2fa555bb7eca";"2016-11-09T14:43:34Z";"bolismauro";"Merge branch 'master' into feature/animation-improvement
+
+# Conflicts:
+#	Katana.xcodeproj/project.pbxproj
+#	Katana/Core/Animations/Animation.swift
+#	Katana/Core/NodeDescription/NodeDescription.swift";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"d99c201767206c24620e4e1579240a182f2042ad";"2016-11-09T14:42:10Z";"smaramba";"Remove comments";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"177bcd63b4f66e03330dc1980eb61bf8c10acf9d";"2016-11-09T14:30:35Z";"alaincaltieri";"Merge branch 'master' into feature/demo-thecodinglove";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"29f84e4222faea2d15d20bfd2ce4bba22966401d";"2016-11-09T14:29:06Z";"bolismauro";"Add missing documentation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"164e6b3be1b675f03367212f256e1188358e34e7";"2016-11-09T14:24:12Z";"alaincaltieri";"Add provider for fetching posts";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"1abe744ed0357f469a4ac1eec536e75a349883d7";"2016-11-09T14:18:13Z";"smaramba";"Include Demo
+
+Remove development team
+
+Include Demo
+
+Remove development team
+
+Include Demo";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"247d37a3ea8228dbccc6f044e50abddfa3817815";"2016-11-09T14:04:06Z";"smaramba";"Rename `Renderer.node` -> `Renderer.rootNode`
+Update tests";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"e9510b6ad4e36639cb568e6a58dcc4b8b227bb78";"2016-11-09T13:52:53Z";"smaramba";"Introduce Renderer";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"7c50acd17f76c3c460ea63edc863c190fd426051";"2016-11-09T13:42:48Z";"alaincaltieri";"Connect components and minimize the amount of props passed";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"64dfba949f9fb7ee1fb533cc959696a70afd2651";"2016-11-09T13:34:20Z";"bolismauro";"Add ChildrenAnimations helpers";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"675195b9303b595de0d7d3a0cd4fed8a4232d0a9";"2016-11-09T13:18:41Z";"alaincaltieri";"Perform some code cleanup";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"9c61029c648af29bc90a8c932ac9c5e882d22c37";"2016-11-09T11:19:38Z";"bolismauro";"Add tests for animations";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"1518f5bf61b1eaa3a4c3ab0cdc196f55650d4147";"2016-11-09T10:59:47Z";"bolismauro";"Fix tests";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"33af4e08996ce355189f3943a82c717f0d2b314a";"2016-11-09T10:30:36Z";"bolismauro";"Polish implementation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"c2e6572e96f2bc07ab13ef9533b570ee5dbd7c15";"2016-11-09T09:45:51Z";"alaincaltieri";"Fix dependency import warning";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"6fbff5b1cde0859f4fcfa0fbd49821461877a025";"2016-11-09T09:24:49Z";"alaincaltieri";"Clean some details";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"e290d36955f053bfc1609f5e3d5047622efd44a0";"2016-11-09T09:07:56Z";"alaincaltieri";"Clean FetchMorePosts action";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"e31a63707cfcc4fea399f4a58b43cbcce3958a9a";"2016-11-09T08:43:21Z";"smaramba";"Update counter.gif";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"e6bccddf8e77a4a39de6c0716816d2b84cd7e23a";"2016-11-09T08:28:24Z";"smaramba";"Update README third iteration";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"897db1dcef3cfddbfb321327d50c05856cdb93d0";"2016-11-08T19:43:19Z";"bolismauro";"Change default clipsToBounds for View component";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"6383727fbdbd439b8e576d1d1132111d49ef5aa7";"2016-11-08T19:43:19Z";"bolismauro";"Change default clipsToBounds for View component";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ac7bc9016961d127235040496cc39ae63729a4a4";"2016-11-08T19:42:50Z";"bolismauro";"Add code to manage explicit children animations";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"637e3a8785a7cdd6680c59b5c6545276cfe71729";"2016-11-08T17:25:47Z";"alaincaltieri";"Reduce size of posts list
+
+Was a bit too much";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"95d231e48f933e4b02a0480138a5cb037ef698d5";"2016-11-08T17:25:29Z";"alaincaltieri";"Handle allFetched";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"975a0aa210583cd42424da9898b91cf5f5979223";"2016-11-08T16:56:44Z";"alaincaltieri";"Add highlighted background to Fetch more cell";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"41f4f7d2aab2c6709b74c434b412a2aaec35ae1f";"2016-11-08T16:43:30Z";"smaramba";"Update copy";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"633f4f7ac58d3aabd3dd74a7c67c706f0307e123";"2016-11-08T16:03:32Z";"alaincaltieri";"Include copyright note for imported modules";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"81d0b0cc2b48634eecefc0e84fbf9e2b70fc02f3";"2016-11-08T15:57:00Z";"alaincaltieri";"Tweak look and feel of the feed";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"888609638a77a2669edaac88f29e5f77017165d0";"2016-11-08T15:56:50Z";"alaincaltieri";"Load more posts per request";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"f23391c84ff37e0db5c870fa27f9c6a1928f8a18";"2016-11-08T15:53:03Z";"alaincaltieri";"Add much more posts of with reasonable size";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"adc2a56795c14fbb20dd93f07074b4040c898474";"2016-11-08T15:52:39Z";"alaincaltieri";"Change fetch more cell labels";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"4015b0fb2730a7c23dcfdde26a9b1f38a777bb84";"2016-11-08T15:52:31Z";"alaincaltieri";"Fetch some posts at startup";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"ce66dc42b35e021d1287c5d146281f932069d64e";"2016-11-08T15:50:08Z";"smaramba";"Center header image";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"47e8803fd22a349419e64ef08a624cd98acee2a7";"2016-11-08T15:26:39Z";"smaramba";"Add katana logo to readme
+Add sample project";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"1d0e42f1e2467e3197816e0f28452bdea679d2bf";"2016-11-08T15:22:22Z";"alaincaltieri";"Bugfix gifs disappearing when reloading view";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"bbefbb68b1c2bd927a091ca99ac83f62ce9eee9f";"2016-11-08T15:21:27Z";"smaramba";"Add katana logo";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"18df96e1505f7e599fd0d984560079fdcf6f757b";"2016-11-08T15:06:46Z";"alaincaltieri";"Update utility for playing gifs";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"5e60d36752a44224a1d90427a436f9454da32893";"2016-11-08T15:00:19Z";"alaincaltieri";"Increase header title font size";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"42e432d9300fb34ebc6164996e055453fcac1036";"2016-11-08T14:52:15Z";"alaincaltieri";"Remove useless util";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"f994a41d121f1f2a2a45e9e8eecb0ce001625d4d";"2016-11-08T14:41:38Z";"alaincaltieri";"Improve post title style";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"1dfe286016cdcc2c31583460dac60c6fdf7da98f";"2016-11-08T14:20:01Z";"alaincaltieri";"Remove some heavy weight gifs from the mocks";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"771cfa376d36bd0e1e3f5396a3c13d1ff6ca0138";"2016-11-08T14:19:46Z";"alaincaltieri";"Introduce workaround for multiple side effects";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"dddcbbc2a81f258548225f9f4bf6d653276bf8b2";"2016-11-08T13:45:44Z";"bolismauro";"Merge pull request #37 from BendingSpoons/fix/proofread-documentation
+
+Fix/proofread documentation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ed2d0854264b4a1d819d1d3417bc75612d258abc";"2016-11-08T13:45:35Z";"alaincaltieri";"Tweak PostCells";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"ca89828693af02ce714cdfdfa49006316ab092ea";"2016-11-08T13:45:27Z";"alaincaltieri";"Connect Fetch Posts action";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"9e6ff4e78ae1b443f24606466e619096bddb4c2d";"2016-11-08T13:44:57Z";"alaincaltieri";"Disable ATS";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"3260e8c8292ecdff5f54475a82c62d8115d16db1";"2016-11-08T13:44:53Z";"bolismauro";"Add first working version of entry and leave animations";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"59fb38f599b0b8e85f7f92e82b6c7e7eafb02f9f";"2016-11-08T13:44:28Z";"alaincaltieri";"Add mocked posts";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"55334039c64cc3e3ab76be6c150b07bc613d335f";"2016-11-07T14:15:40Z";"smaramba";"Lower down references to react/redux";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"9de379bc2c7579784ef2ecee43f8adfdd4f9d4a7";"2016-11-03T15:30:47Z";"smaramba";"Create README.md";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"699379059950086d157dea2309172935fc96c19d";"2016-11-08T13:04:42Z";"smaramba";"Fix typos";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"b45225d16c1a525a3f40b397be005a03f6e7ed5e";"2016-11-08T12:56:16Z";"smaramba";"Rename Root -> Connector";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"87a787b3375ec5e310c525720f2014986d0fbecb";"2016-11-08T10:48:19Z";"alaincaltieri";"Implement fetch more cell";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"29766f8e7af5605f35dae066acf1122f36599789";"2016-11-08T10:14:13Z";"smaramba";"Remove final keyword from NativeButton";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"04da92b4e8dd7114aae617544d5910e5b00a99c2";"2016-11-08T10:12:02Z";"smaramba";"Add Touch Handlers for Button element";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"1e2512368e64a3230a77ffdf93b9444ec161b4fa";"2016-11-08T09:19:08Z";"alaincaltieri";"Improve Coding Love node";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"f919064644fe7fa05c0b68e262c257c5f43624d3";"2016-11-08T09:09:08Z";"alaincaltieri";"Start implementing PostCell";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"5df5d3239dfd155e1ad49e9d69999ff5c087ecad";"2016-11-07T17:11:20Z";"bolismauro";"Add code to manage animation types";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"4b097cc0c9a1beea9b704db0daab46f38d8ea461";"2016-11-07T16:31:05Z";"alaincaltieri";"Merge branch 'master' into feature/demo-thecodinglove
+
+# Conflicts:
+#	KatanaElements/Table/Table.swift";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"42df9dd690a910d4ca16eea5d22e9b1b1a81aa3c";"2016-11-07T16:29:08Z";"alaincaltieri";"Connect the Katana root and add missing references to project";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"4fb255d91d3246979cc685af6c11cda8ba768051";"2016-11-07T16:28:31Z";"alaincaltieri";"Add FetchMorePosts action wip version";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"93c7f90f55c7d775b5af4ffa4ca1e0304123b1ff";"2016-11-07T16:28:19Z";"alaincaltieri";"Add Post plain model";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"07a9319301dd6cbe3a42ea09d9ae8460c32b6d14";"2016-11-07T16:28:08Z";"alaincaltieri";"Add initial test set of nodes";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"25a19583c419df0d46daafedcaef604190f0484c";"2016-11-07T16:27:58Z";"alaincaltieri";"Add simple App State";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"8df9ab165713e14ff377f164aefdb5bf9131c347";"2016-11-07T16:27:49Z";"alaincaltieri";"Add some utility extestions";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"9ead0336d5689eaddffcd29b04133a24f4031516";"2016-11-07T16:25:43Z";"alaincaltieri";"Make Table element conform to Buildable Protocol";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"247d91a2c765e0acd0762675f48dd918dea35819";"2016-11-07T16:23:23Z";"alaincaltieri";"Remove default VC";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"2b31ca460cbd4c54d3b987eaf970207993170510";"2016-11-07T16:16:39Z";"bolismauro";"Fix Katana Elements Equatable implementation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e7516ec5c7c8cceb7b6c4dd69820cf51e9db503e";"2016-11-07T16:16:39Z";"bolismauro";"Fix Katana Elements Equatable implementation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"88d301ca440c7502f4ea61eb31e36569fb2cf1bf";"2016-11-07T15:55:19Z";"smaramba";"Rename NodeProps -> NodeDescriptionProps, NodeState -> NodeDescriptionState";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"01d248568f5645aa6f92efa018d24e5aa76b0e28";"2016-11-07T14:53:46Z";"bolismauro";"Add first new animation system skeleton
+
+This commit adds the initial skeleton of the new animation system. Tests pass, so the update didn’t break anything. Animations most likely won’t work since the implementation is not completed yet";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"d91fa7467bac98c3ac7a182b1f15563ce8555255";"2016-11-07T14:42:53Z";"alaincaltieri";"Add CodingLove Example Project";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"6392872d9c97ffe1684f6da20e011a59d7194930";"2016-11-07T14:05:24Z";"Luca-Papale";"Fix typos and implement proofread";"Luca-Papale";"lucapapale88@gmail.com";22682099,00
+"30d62a70b17355da3d7a4e5be48ad9165eeac3f3";"2016-11-07T09:52:20Z";"Luca-Papale";"Fix documentation script";"Luca-Papale";"lucapapale88@gmail.com";22682099,00
+"397b893b7c320323d01cf5fc5bb5e7f727694974";"2016-11-05T15:05:02Z";"frankdilo";"Fix documentation generation script and add URL to BS homepage";"Francesco Di Lorenzo";"fradilorenzo92@gmail.com";715405,00
+"a314d54ae966975b56c26ea30ce0fe328b26ed80";"2016-11-04T14:09:21Z";"bolismauro";"Merge pull request #32 from BendingSpoons/fix/improved-node-init
+
+Fix #29, Fix #25";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"c6751dbc2c6cbc6daa95a163f48fccad6e500b55";"2016-11-04T14:08:27Z";"bolismauro";"Merge branch 'master' into fix/improved-node-init
+
+# Conflicts:
+#	Katana/Core/Node/Node.swift
+#	Katana/Core/NodeDescription/NodeDescription.swift
+#	Katana/Plastic/PlasticNodeDescription.swift";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e043a996fca3f7369e06666aeffa02d733045623";"2016-11-04T13:57:30Z";"bolismauro";"Merge pull request #27 from BendingSpoons/feature/documentation
+
+Feature/documentation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"1c8055aaf163192ef7188013fa9f8dbb53f74969";"2016-11-04T13:57:19Z";"bolismauro";"Merge branch 'master' into feature/documentation
+
+# Conflicts:
+#	Katana/Core/Node/Node.swift";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"0e26b111195d038cce7d2db7fb5ed8564e1f4eb8";"2016-11-04T13:54:44Z";"lucaquerella";"Fix: “LQ forgot to remove a couple of throws”";"Luca Querella";"luca.querella@gmail.com";110147,00
+"12d6842ff787e48b0a0274c00de49466e86b3983";"2016-11-04T13:53:45Z";"bolismauro";"Merge branch 'master' into feature/documentation
+
+# Conflicts:
+#	Katana/Core/Node/Node.swift";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"3fa46e6a7a0dae7531ce0c1862e00a49bf5adf6c";"2016-11-04T13:51:26Z";"lucaquerella";"Imporve Node init";"Luca Querella";"luca.querella@gmail.com";110147,00
+"e0b04e09e6aa939e83e3478123eca77f6fb0a32f";"2016-11-04T13:50:08Z";"bolismauro";"Fix documentation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"59a08cc4ab7b8d567ab30c899fdffc3451dc0de9";"2016-11-04T13:39:27Z";"bolismauro";"Fix reduce renaming";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"360e83f7c6bcf9af221ca5e0e012509e6bfe5924";"2016-11-04T13:23:54Z";"lucaquerella";"Fix #24";"Luca Querella";"luca.querella@gmail.com";110147,00
+"572e3a5eac9f4e3b02b37b625d54b7bdd86e9a58";"2016-11-04T13:23:50Z";"bolismauro";"Merge branch 'master' into feature/documentation
+
+# Conflicts:
+#	Katana/Core/Node/Node.swift";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"4911725edfcab9a5226163e42023da00f82da1e5";"2016-11-04T13:22:34Z";"bolismauro";"Merge branch 'master' into feature/documentation
+
+# Conflicts:
+#	Katana/Core/NodeDescription/Commons.swift
+#	Katana/Core/StoreConnection/Root.swift
+#	Katana/Store/Action.swift
+#	Katana/Store/AsyncAction.swift
+#	Katana/Store/Store.swift";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"d38aa9aaa26a15f9eac716471c2013670bc272e9";"2016-11-04T13:18:37Z";"lucaquerella";"Fix typo";"Luca Querella";"luca.querella@gmail.com";110147,00
+"64b035cf48480521b6512e1a30cf60d57fbe2517";"2016-11-04T13:16:54Z";"lucaquerella";"Fix #26";"Luca Querella";"luca.querella@gmail.com";110147,00
+"7e49a1c008150ea89c392a978a90db6e9bb334c9";"2016-11-04T13:07:24Z";"bolismauro";"Merge pull request #23 from BendingSpoons/fix/renaming
+
+Fix #15";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"f151858a79438602c51e8cad7a335207c3265289";"2016-11-04T13:04:29Z";"bolismauro";"Merge branch ‘origin/fix/renaming' into fix/renaming
+
+# Conflicts:
+#	Demo/MineField/Actions/DiscloseCell.swift
+#	Demo/MineField/Actions/StartGame.swift
+#	Demo/ToDo/Actions/AddTodo.swift
+#	Demo/ToDo/Actions/RemoveTodo.swift
+#	Demo/ToDo/Actions/ToogleTodoCo";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a6a5bfe402d5da8eec7d86bcf063e8630dbe1785";"2016-11-04T13:03:11Z";"bolismauro";"Merge branch 'master' into fix/renaming";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"c0730222174d2face6d601d5d40cca3d46023144";"2016-11-04T12:58:54Z";"lucaquerella";"Fix #28";"Luca Querella";"luca.querella@gmail.com";110147,00
+"ecb30ffaf2fc3f8e1606ccf4ea5ec56b5c7aa7e9";"2016-11-04T12:39:06Z";"bolismauro";"Merge branch 'master' into fix/renaming
+
+# Conflicts:
+#	Demo/AppDelegate.swift
+#	Demo/MineField/Nodes/MineField.swift
+#	Demo/MineField/Nodes/MineFieldCell.swift
+#	Demo/MineField/Nodes/MineFieldGrid.swift
+#	Demo/ToDo/Nodes/ToDo.swift
+#	Demo/ToDo/Nodes/ToDo";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"22fdfb72b425782bd014a7bc03cf0826e9bad1b1";"2016-11-04T11:15:42Z";"smaramba";"Rename Action.reduce(...) -> Action.updatedState(...)";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"da664a3e054f47b6d578f7365fa96d1263e9ea08";"2016-11-03T21:59:53Z";"bolismauro";"Merge branch 'fix/renaming' into feature/documentation
+
+# Conflicts:
+#	Katana/Core/Node/Node.swift
+#	Katana/Core/StoreConnection/Root.swift";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"efc0c84fd0048893024f12aa2bd9916ac1cc1294";"2016-11-03T21:49:00Z";"bolismauro";"Add documentation for action";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"7fd2c2fc55fba3a373f6913479f20dbe30312454";"2016-11-03T21:48:54Z";"bolismauro";"Add documentation for async action";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"1501b98a402cd387b5893b38e5ce2a5c9622cfa6";"2016-11-03T21:48:49Z";"bolismauro";"Add documentation for side effects";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"c622bcb408b0d11aad1f5ffb727b1eb31bb75e3e";"2016-11-03T21:48:35Z";"bolismauro";"Add documentation for Store";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"2e8ae1ae74d37bdedd234498075c0934858107bc";"2016-11-03T21:20:37Z";"smaramba";"Rename Node.draw(...) -> Node.render(...), Node.redraw(...) -> Node.reRender(...)";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"96fc5a64909fb00370c86ea0caff6ed6649f522c";"2016-11-03T17:50:54Z";"bolismauro";"Add documentation for the logic of Katana";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a68158c2fe66151f6ef8be218d3cd2aac1acdccf";"2016-11-03T13:15:00Z";"bolismauro";"Add documentation for NodeDescription";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"0a04fc76698cef387926d7353a20d8910b3c93f4";"2016-11-03T13:14:54Z";"bolismauro";"Add documentation for PlasticNodeDescriptionWithReferenceSize";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"3312314dbb8ed4775a92f272e28a2d2fd9c8cd71";"2016-11-03T13:14:40Z";"bolismauro";"Add documentation for PlasticView";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"6f18653a276d1551fd27dc20672bfa42bcd4618b";"2016-11-03T13:14:33Z";"bolismauro";"Add documentation for Plastic values";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"821c23bdcdc547be9aa981846e042c7ac9746399";"2016-11-03T13:14:22Z";"bolismauro";"Add documentation for ViewsContainer";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"15b3c26db221c348ecce3ff5a8cbf31de0ef205c";"2016-11-03T10:36:45Z";"bolismauro";"Merge branch 'fix/renaming' into feature/documentation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"fdb5c6926fbc25cac8b88fc4b4f075fa58c67ae6";"2016-11-03T10:36:36Z";"bolismauro";"Rename file";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e8b6946ba21893667cea33ea28dee4fa4421f762";"2016-11-02T21:09:17Z";"bolismauro";"Add documentation for CoordinateConvertible";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"dfdba82358b4e261339e7db78f50811c23023bab";"2016-11-02T21:09:09Z";"bolismauro";"Add documentation for PlasticNode";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"c264a6f38dfc72c8fa1976c7c0831ab23286cdf2";"2016-11-02T21:09:01Z";"bolismauro";"Add documentation for PlasticNodeDescription";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"0ae35f5b794f0eb897bf57c803f0a8aa1e637dde";"2016-11-02T20:38:14Z";"bolismauro";"Merge branch 'fix/renaming' into feature/documentation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"bfc5820cd0c512d28e09551709589b7645e21624";"2016-11-02T20:38:05Z";"bolismauro";"Rename file";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"27d669705d525a20b093d744243240c5ee8cfb7b";"2016-11-02T20:37:32Z";"bolismauro";"Add documentation for Anchor";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"92a75643371e8310415114af99f3097c66ba9d38";"2016-11-02T20:37:20Z";"bolismauro";"Add documentation for Plastic Array methods";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"649b62f6e056e9ba76f910f53835a5eb8c6eb86d";"2016-11-02T20:37:08Z";"bolismauro";"Add documentation for EdgeInsets";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"c275df48115aae8fd56a16cf0065aea1cd00a577";"2016-11-02T19:03:11Z";"bolismauro";"Add documentation for Collections+Katana";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"cf6053cb0ba49dc3760c00b05f5a9d3676337feb";"2016-11-02T17:24:01Z";"bolismauro";"Add documentation for Root";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"81f9ee8161a210647c20a23c42e7ed27889b2a45";"2016-11-02T16:36:06Z";"bolismauro";"Merge branch 'fix/renaming' into feature/documentation
+
+# Conflicts:
+#	Katana/Core/StoreConnection/ConnectedNodeDescription.swift";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a44a544ff76d06635d5ffd28240e26e68ead5441";"2016-11-02T16:32:52Z";"bolismauro";"Add documentation for ConnectedNodeDescription";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"22f0bf327bcbaba268b25f5e9185460f0f051ef8";"2016-11-02T16:32:44Z";"bolismauro";"Add documentation for Animation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"6dc2fd8c4046eba8c4d5eee645b557e4d7cbfbeb";"2016-11-02T16:02:59Z";"bolismauro";"Add documentation for Commons";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"c11341a6b8c86bd910db9888f4e9dca70b8a4fdb";"2016-11-02T15:59:43Z";"smaramba";"Rename storageState -> storeState";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"bec3224af3a28d104538de92646dd2ee1b48c28a";"2016-10-31T15:05:32Z";"bolismauro";"Remove unused extensions and methods
+
+# Conflicts:
+#	Katana/Core/NodeDescription/Commons.swift";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e6d300383590248e9aa1d5f72ae4cbfbb3ac3d79";"2016-11-02T15:46:56Z";"bolismauro";"Add documentation for NodeDescriptionWithChildren";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"f42724b16344b781891f645a0c6ebaa4399ad803";"2016-11-02T15:16:10Z";"bolismauro";"Add documentation for DrawableContainer";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"3b5e695e214992f6df4c32274740a3343c47d3fc";"2016-11-02T15:16:01Z";"bolismauro";"Fix warnings";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"28f0865373fe41658af03dfd06c4bc9349a8cb61";"2016-11-02T15:14:16Z";"bolismauro";"Merge branch 'fix/renaming' into feature/documentation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"32a8a5d98d1b2b5722f948878ea97c23c094bbad";"2016-11-02T15:12:03Z";"smaramba";"Rename DrawableContainer.removeAll() -> DrawableContainer.removeAllChildren()";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"0ef0cc12bdc77296ff1de5924f5a6c5e5ac817f9";"2016-11-02T14:52:56Z";"bolismauro";"Add documentation for NodeDescription";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"b19686a3016cff2ed66015d6aab80af50df59d66";"2016-11-02T13:19:36Z";"bolismauro";"Add documentation for Node";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"8e8b154a41207c9f9abaffdf0ba1f513d5489544";"2016-11-02T10:23:50Z";"bolismauro";"Merge pull request #19 from BendingSpoons/feature/elements-reworking
+
+Elements Reworking";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"7109e3df41c314652b097f476f5b93af32b081b0";"2016-11-02T10:23:24Z";"bolismauro";"Merge branch 'master' into feature/elements-reworking
+
+# Conflicts:
+#	Demo/AppDelegate.swift
+#	Demo/MineField/Actions/DiscloseCell.swift
+#	Demo/MineField/Actions/StartGame.swift
+#	Demo/Shared/Middelwares/actionLogger.swift
+#	Demo/ToDo/Actions/AddTodo.swif";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"6100267bcb7e838ee713ba6c1ccde7309e11d68c";"2016-11-02T10:12:06Z";"bolismauro";"Remove comment";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"1add2b0b193e239e23c3860348edb6107375a0b6";"2016-11-02T08:59:51Z";"bolismauro";"Rename variable to respect Swift naming convention";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"60e6d4f407c8fdc455a80c02631ebcd46cc61750";"2016-11-02T08:58:40Z";"bolismauro";"Rename Button prop to stick with UIKit naming";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"d6fa92fa08893702dc5a213242fa846c71e30618";"2016-11-02T08:50:12Z";"bolismauro";"Add script to generate documentation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a4e8a1c299d6fef77fca26ad47a7ea0a6d038a02";"2016-11-01T20:55:21Z";"smaramba";"Rename Store.compose(_ middlewares:, with storeDispatch:) -> Store.composeMiddlewares(_ middlewares:, with storeDispatch:)";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"841e081d49f2821d6e5b6d89ee1ad691de61a8c3";"2016-11-01T14:08:19Z";"smaramba";"Rename NodeDescription.childrenAnimationForNextRender() to NodeDescription.childrenAnimation()";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"ce8e906ef1269445721b19f37f0d7e0e48d542c2";"2016-11-01T13:59:17Z";"smaramba";"Fix warning";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"4b145641f6789a69a0022890b735d17d83acf3c7";"2016-11-01T13:55:49Z";"smaramba";"Rename ConnectedNodeDescription.connect(props: , storageState:) -> ConnectedNodeDescription.connect(props:, to storageState:)";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"af3b13b84c7a888662a7ad632a85415220bd4329";"2016-11-01T13:37:34Z";"smaramba";"Rename HierarchyManager -> CoordinateConvertible";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"08ad9c5aab40f66be38860cc9d054a829b044f5e";"2016-11-01T13:28:09Z";"smaramba";"Rename ViewsContainer.nodeChildrenHierarchy(_ children, ...) -> ViewsContainer.createChildrenHierarchy(for childrenDescriptions)";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"9c1577d7eaa848bdeaf76bd42f72a72904cde613";"2016-11-01T11:37:10Z";"smaramba";"Rename ViewsContainer.resolveAbsoluteOrigin(fromNode: ) -> ViewsContainer.resolvedAbsoluteOrigin(for: )";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"b33b335ffe743fffe473899ad8bbc93f77dbc008";"2016-11-01T11:21:52Z";"smaramba";"Rename global const nativeViewKey as camel case";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"d2544772372f67a6b13757032839c198c72b35d8";"2016-11-01T11:13:42Z";"smaramba";"Rename ViewsContainer.filtered(:) -> ViewsContainer.filtered(with:)";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"f3e469ba99b38c39132683be18a07e15f95729f9";"2016-11-01T11:05:24Z";"smaramba";"Rename PlasticView.setBottom(:, :) -> PlasticView.setBottom(:, offset:), same for setTop, setRight, setLeft, setCenterX, setCenterY
+Update tests to match new methods signatures";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"877f7e1e7237b8efb6e3fa3eceb11496b6bbcc6e";"2016-11-01T10:47:40Z";"smaramba";"Rename PlasticView.center(betweenLeft: ....) -> PlasticView.centerBetween(left: ....), PlasticView.center(betweenTop: ....) -> PlasticView.centerBetween(top: ....)";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"0f43e58a118b1b416ca0c30d62546d4a0b5d4137";"2016-11-01T10:38:56Z";"smaramba";"Mark internal methods of Plastic Node as private";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"63ac8080e1ee91d7411cc99172ab87e7633108ba";"2016-11-01T10:35:36Z";"smaramba";"Refactor PlasticNode to gain clarity";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"a8db6127eaaae7cf7f7fcdd06d6f69ac70f2a99c";"2016-10-31T17:08:08Z";"smaramba";"Rename Node.processedChildrenBeforeDraw() -> Node.processedChildrenDescriptionsBeforeDraw()";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"12eaee6019e6b9b2e070ced3cbc48f9d2c19a6c9";"2016-10-31T15:28:23Z";"smaramba";"Rename scale() -> scale(by:)";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"2de73e84e008698830d5b47c15670dad0b9862d7";"2016-10-31T15:14:53Z";"smaramba";"Rename [PlasticView].center(betweenLeft left: ...) -> [PlasticView].centerBetween(left: ...), [PlasticView].center(betweenTop top: ...) -> [PlasticView].centerBetween(top: ...)";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"b07a99e00fa47a1263138fdfeff7e70ac9325f09";"2016-10-31T15:10:53Z";"smaramba";"Update tests for new Root.draw(in container:) method";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"2329226a9cdd98702c691953e98f78c1d35739aa";"2016-10-31T15:04:43Z";"smaramba";"Rename Root.draw(container:) -> Root.draw(in container:)";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"9bd89b5fa5e8c6a5f08d8e43466c69b9b5566ef8";"2016-10-31T14:17:16Z";"smaramba";"Rename DrawableContainer.add(child:)  -> DrawableContainer.addChild(), bringToFront(child:) -> bringChildToFront(), remove(child:) -> removeChild()
+Mark DrawableContainer.addChild as @discardableResult";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"8610e2dbff44ab84ee41d75ec208ba6fe882e8a5";"2016-10-31T13:17:48Z";"smaramba";"Rename DrawableContainer.update(view:) -> DrawableContainer.update(with updateView:)";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"d519dc30bc9f34e73ff2f3fa7bd0fe9fafbaadf2";"2016-10-31T13:17:37Z";"smaramba";"Update test for new update(view:) method";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"05afdc58460a86337219c4da12fd75c2e13d4a3a";"2016-10-31T11:31:57Z";"smaramba";"Rename methods inside Node declaration where first argument form part of a prepositional phrase";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"7a9f9445fa4e2f7d44a19203b59e8488665b0edf";"2016-10-31T10:38:51Z";"smaramba";"Rename Animation.animateBlock -> Animation.animate";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"e14d701d1473fb76ca1a98380af3e3b5caa1c67e";"2016-10-31T10:29:55Z";"smaramba";"Rename Animation enums";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"d3cbdc73ff71d4f58072d6f1be72166a4f41746b";"2016-10-28T14:48:56Z";"smaramba";"Rename NodeWithChildrenDescription -> NodeDescriptionWithChildren
+Rename AnyNodeWithChildrenDescription -> AnyNodeDescriptionWithChildren";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"5ea18a402fe28112c4c3f4b8b1370c965edce8ef";"2016-10-28T14:18:56Z";"smaramba";"Rename Node.renderChildren() -> Node.childrenDescriptions()
+Rename Node.processChildrenBeforeDraw -> Node.processedChildrenBeforeDraw()
+Rename nodes in nodesDescription where applicable";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"2ccb3461eb68f5bb22c4d0b553b6b9f25967c44a";"2016-10-28T14:03:49Z";"smaramba";"Change render() -> childrenDescriptions()";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"ae37c44e2b35d8a23437ede2e5284aa8334d17d2";"2016-10-28T12:46:22Z";"smaramba";"Rename NodeDescription.node() -> NodeDescription.makeNode()";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"31c380b549f9b358a1eeb452585562405ee3e5ae";"2016-10-28T11:11:47Z";"smaramba";"Rename NodeDescription.root() -> NodeDescription.makeRoot()";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"c9d189bbf115f2c60a04ee908e9522a24b834c5d";"2016-10-31T19:10:53Z";"bolismauro";"Remove Katana extension, closes #22";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"7ab9bf630e5878b868e2e8d520b0f21fcd520c52";"2016-10-31T18:49:48Z";"bolismauro";"Merge pull request #17 from BendingSpoons/feature/new-actions
+
+Feature/new actions";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"1053e343cbc23355de17bb1f95395acfd94caa08";"2016-10-31T17:10:13Z";"bolismauro";"Refactor Action";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"f8158f7f04bd480108d39fa4f2569fd6a37c8d80";"2016-10-31T16:25:12Z";"bolismauro";"Rename SideEffectable into ActionWithSideEffect";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"dde32774efccda1848c6ac46a35e2745faf6717a";"2016-10-31T16:22:00Z";"bolismauro";"Fix guard with a more readable variable name";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"553f73bd508818eafff17f3f656114c7a0ae82e0";"2016-10-31T16:21:00Z";"bolismauro";"Use a variable getter to get the store’s state";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"798103f381f6833d3975d938badf8405bc5b0ebe";"2016-10-31T16:15:53Z";"bolismauro";"Rename dependencyContainer into dependencies in Store";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"3f9a50d5859029be41513055664049257e5ff7eb";"2016-10-31T16:06:11Z";"bolismauro";"Update demo for new action system";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"3a2d11fad9ef3ed16e3ee9b4ea5deb33f39c78f4";"2016-10-31T15:38:46Z";"bolismauro";"Fix Label frame";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"fd6d07269227c92fa9761a8c0f362de83421de93";"2016-10-31T15:19:34Z";"bolismauro";"Fix Table cell after master merge";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"3b24fa6096ccc3e10d44cc81f07ba356728193fe";"2016-10-31T15:18:16Z";"bolismauro";"Merge branch 'master' into feature/elements-reworking
+
+# Conflicts:
+#	KatanaElements/Grid/NativeGridViewCell.swift
+#	KatanaElements/Table/NativeTableWrapperCell.swift";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ac4b590921aef7d1032857d7a06df63a0bb684f5";"2016-10-31T15:17:14Z";"bolismauro";"Remove demo from repository";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"78442f40c3151359af4de0a2b09b5618efdf8813";"2016-10-31T15:16:27Z";"bolismauro";"Remove KatanaElements dependency from Katana tests";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a0c1e0ba2cdef917970b84afc3557b77beab9d63";"2016-10-31T15:05:32Z";"bolismauro";"Remove unused extensions and methods";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"71201d4c2fce07efd0f67d46167a3c5d0b86f3d7";"2016-10-31T14:40:59Z";"bolismauro";"Fix project";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e655091c28ed3aef34dae40139846f3f81299936";"2016-10-31T14:31:08Z";"bolismauro";"Add Plastic functionalities to elements";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"c034e9d145cf1927d3aa011eedf110e2d3d035b9";"2016-10-31T12:57:08Z";"bolismauro";"Refactor Table element";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"5895dba3f81212debc595d3f89296c4e3158638a";"2016-10-31T12:51:07Z";"smaramba";"Rename AnyNode.root -> AnyNode.treeRoot";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"e2ab774a815bbcfc103183153bc29888a8e8b7df";"2016-10-31T12:09:20Z";"bolismauro";"Remove Grid element";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a7b10fd4f46d6823f4b5a9f5b0e9b5437fd3a134";"2016-10-31T11:10:36Z";"bolismauro";"Remove unused protocols";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"7a875b77cb5a9b4fc95903a06aa60e42b3cf6618";"2016-10-31T11:10:10Z";"bolismauro";"Remove Plastic scalable properties";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"59dcce291410f93d4b73b3627d4494999f74e08c";"2016-10-31T11:08:49Z";"bolismauro";"Refactor Button";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"92ca7f4641436da0d306869b4ce3c77b0bb54052";"2016-10-31T10:16:14Z";"bolismauro";"Add Image component";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"999e12da6ad494a691c9b1eb75b054d17f736de7";"2016-10-31T10:08:11Z";"bolismauro";"Use Plastic to scale elements properties";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"81d0862988ee6b3dbc3fbb750330e2d2855d536e";"2016-10-31T10:04:04Z";"bolismauro";"Refactor Label element
+
+Previously Label was Text. It has been renamed to be closer to the UIKit name";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"062ebf98f80510b2272c203c160b32e2477de230";"2016-10-31T09:36:06Z";"bolismauro";"Refactor View";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a108b20de0bfb10745d9659a02ff97de999548b4";"2016-10-31T09:33:23Z";"bolismauro";"Comment button implement
+
+Temporary disable button, we will refactor it in the next commits";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"cf329d2b6d83a78e7318ab38a6dcd289045d20e8";"2016-10-31T09:14:49Z";"bolismauro";"Rename file";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"b0d4340d3bd59a1f0a8b91cdde4577182cab022f";"2016-10-31T09:13:35Z";"bolismauro";"Rename file";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e398200ea65deb98a9a56a073521fb7b0c9a6d8a";"2016-10-31T09:13:01Z";"bolismauro";"Remove print";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"2141f8b7aa4feb56a75f2d64c004068aa013fc94";"2016-10-31T09:12:46Z";"bolismauro";"Fix typo";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"b7fcf078e160bb9960bb60513c6982305aff55f7";"2016-10-31T09:06:42Z";"bolismauro";"Refactor TouchHandler";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"9477338cfc26e8a856934fdb1e8627a1d1e8edba";"2016-10-31T08:34:51Z";"bolismauro";"Add SideEffectable";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"9f7e63e69df83b13afa92ed073c58f945bba39da";"2016-10-28T15:47:55Z";"bolismauro";"Add AsyncAction";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"39bae8ce1617a254fe039b243ab3ffc172dd733b";"2016-10-28T15:14:33Z";"bolismauro";"Remove unnecessary cast";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ff21df6bf934f423c08201194a59807e9ff3e3c5";"2016-10-28T15:11:41Z";"bolismauro";"Add SyncAction";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"779dd6ee142314e0a316ac7e2f5af5c5f82e42d5";"2016-10-28T14:53:17Z";"bolismauro";"Use a function rather than a variable for consistency";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"f1eaf6e2ba7a9fceb7a4fd17ce9108661faafaac";"2016-10-28T14:51:24Z";"bolismauro";"Restore middlewares";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a96d48ba628a853bd5fceac2756fb3144cfb7c3c";"2016-10-28T13:35:51Z";"bolismauro";"Refactor Action";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"d1f034f7dbdde66530aa18faaa9bc2f7645aa050";"2016-10-28T12:40:15Z";"bolismauro";"Move files in the proper folder";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"af942b5a512753d339343fc898007cecf5f6fda9";"2016-10-28T12:35:40Z";"bolismauro";"Remove SmartActions";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"d490bc380b15e94cba216d41581f7d6905069b81";"2016-10-28T11:22:03Z";"smaramba";"Fix tests including new KatanaElements target";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"5829aabee9238e6d96c181967d7b827fa341dbbd";"2016-10-28T11:09:06Z";"smaramba";"Add KatanaElements as a target module";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"8435725294e8a7d3cc107ecd0c79896348a16f5d";"2016-10-27T15:33:34Z";"bolismauro";"Remove string setter in Keyable";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"12c82d76518e8b7536eae3118eef163c591a0388";"2016-10-27T15:11:43Z";"smaramba";"Rename AnyNode.treeRoot -> AnyNode.root";"Andrea De Angelis";"smaramba83@gmail.com";1080815,00
+"47ee0e15dbb57c0642c24e7a405c5eb83797b86f";"2016-10-27T14:18:28Z";"bolismauro";"Refactor Node to divide methods according to visibility";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"61c029297731976a6a2e828bc8cb5ce17c8bf8f7";"2016-10-27T14:07:00Z";"bolismauro";"Merge pull request #14 from BendingSpoons/fix/update-bug
+
+Fix/update bug";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"64ccb9aac04533fbddec11f1a76175dee2f36834";"2016-10-27T14:06:01Z";"bolismauro";"Use Implicitly Unwrapped Optional for Node’s children";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"2a2998a40ede2f96cec805561205b838d3493fe5";"2016-10-27T14:02:19Z";"bolismauro";"Remove commented lines";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a32a51579ac6ff6ec7acb1c071137b445e1c2879";"2016-10-27T13:59:07Z";"bolismauro";"Make node’s children non optional";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"3f552f274503ba1b02087b33b049c00abd5c5159";"2016-10-27T13:50:44Z";"bolismauro";"Force update to be invoked in the main thread";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"386ba1f7492eb31c575142e9eb7f97d0c5bd72aa";"2016-10-27T13:07:53Z";"bolismauro";"Fix warnings, close #12";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"36acbe2c633766f2e971f8e90750ae120aa70fd0";"2016-10-27T12:43:05Z";"bolismauro";"Update Swiftlint configuration";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"207684c50680b652a63ccf524ba15fa16293e2f3";"2016-10-24T12:35:09Z";"bolismauro";"Fix Plastic method";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"2605c795e73fcc6442e087c3b53f84b9fa736bb8";"2016-10-10T15:22:11Z";"bolismauro";"Move katana nodes in a separate repo";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"20eb7f45e9ca230e7c0194452e891fdc33150e52";"2016-10-10T13:01:31Z";"bolismauro";"Ignore Carthage folder";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"7a6677bfe90b510bb1bc0047e6991fd4697da811";"2016-10-10T12:57:36Z";"bolismauro";"Move elements away from main framework";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"3265109b490b85c40c3176b133da0a89ce7ce431";"2016-09-21T16:45:43Z";"bolismauro";"Refactor NodeDescriptionKeys management
+
+This commit changes how NodeDescriptionKeys are managed. Actually there is no more a NodeDescriptionKeys protocol, since everything can be used as a key (this is because there is no way to enforce that a generic pa";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"3c825ac03707de06b540b5ec6f1456c4e51f2b23";"2016-09-21T16:41:36Z";"bolismauro";"Fix tests";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"6957950d7513340320c842c4a68982c6c2c9a93c";"2016-09-21T10:16:51Z";"bolismauro";"Make some variables public for testing purposes";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"077fd55b95d6c9ef11ec7c28e82a288a4edf51fb";"2016-09-15T10:08:14Z";"alaincaltieri";"Bugfix grid applyPropsToNativeView signature";"Alain Caltieri";"alaincaltieri@gmail.com";4777707,00
+"a4b3797067770e54c69e3c50e20eb46702b9a4a5";"2016-09-14T18:30:21Z";"bolismauro";"Make TouchHandler keyable";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"29cdfef9f3530449086bf5acf3366565dc62887c";"2016-09-12T13:48:53Z";"bolismauro";"Improve store queue management";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"74833c8e791755c76b845c9191c524a3a1b1d723";"2016-09-12T11:41:40Z";"bolismauro";"Make smart action dispatch escaping";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"dde81122336f3c809a1b78d7d3e1811c93a09233";"2016-09-10T15:24:38Z";"lucaquerella";"Fix warnings";"Luca Querella";"luca.querella@gmail.com";110147,00
+"ffd87bbe4e2a698e4e0d2eea8babb32ac5122e82";"2016-09-10T14:31:05Z";"lucaquerella";"Add linter";"Luca Querella";"luca.querella@gmail.com";110147,00
+"6fc544e56c5097b247a672934aa56c4d3b40e233";"2016-09-10T01:08:38Z";"lucaquerella";"Low the deployment target";"Luca Querella";"luca.querella@gmail.com";110147,00
+"197a9b1be1d93920f288183fd025f2993770aadf";"2016-09-10T00:51:06Z";"lucaquerella";"Polish MineField";"Luca Querella";"luca.querella@gmail.com";110147,00
+"586c343fbcccab4983bca5ce86c5803066b6e907";"2016-09-10T00:12:39Z";"lucaquerella";"Add MindField to Demo";"Luca Querella";"luca.querella@gmail.com";110147,00
+"9e651c90747be97813e500b4302c2addbcf44936";"2016-09-09T18:24:14Z";"bolismauro";"Improve layout cache";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"c1511e022310905edf896ee6dd42511dc3e89bb0";"2016-09-09T16:45:30Z";"bolismauro";"Add layout cache";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"3759217ecbd0f11a557453b7c599b840207777f9";"2016-09-09T16:45:11Z";"bolismauro";"Remove wrong protocol dependency";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"dfba7495e3b78b4b98c8382df371ef29416aec14";"2016-09-09T09:24:02Z";"bolismauro";"Improve performances";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"41ceef3624fdb47d759ed3dd587f0512b7303f04";"2016-09-09T07:42:25Z";"bolismauro";"Add force reload to the node";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"b84856278bebd4b63339271125b2b09ce332cdaf";"2016-09-08T20:31:32Z";"lucaquerella";"Make it compile on Xcode 8 GM";"Luca Querella";"luca.querella@gmail.com";110147,00
+"4e804307aba17224ef74912f9185fe88e4f206c0";"2016-09-07T08:09:28Z";"bolismauro";"Make Plastic values init public";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"920d234ba93abff1f846694cd32f42d9a9e16c32";"2016-09-06T08:42:32Z";"bolismauro";"Make Root open";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"43e8ca9aca8c585bb4dc85db8d33898798a644a0";"2016-09-06T08:10:55Z";"bolismauro";"Fix method name";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"beadfc43508d2ef2f9835409e21d2d217d00e59d";"2016-09-06T08:10:51Z";"bolismauro";"Fix demo for previous commit";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"f14a4cd352287fea546a18ee11353453298303e1";"2016-09-06T08:08:09Z";"bolismauro";"Remove optional dispatch";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"b801308c24f7ab26389ecec4aea1d669db9b7f65";"2016-09-06T08:00:57Z";"bolismauro";"Merge branch 'alternative-root'";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"13f41b2f0298cf1b46ea9b2a37d9aeb563085dd0";"2016-09-06T01:27:47Z";"lucaquerella";"Fix bug in new Cell and GridCell";"Luca Querella";"luca.querella@gmail.com";110147,00
+"c5005d6e93d6a21f2217ffd40642847e94c833dd";"2016-09-06T01:06:13Z";"lucaquerella";"Provide implementation for removeManagedChild";"Luca Querella";"luca.querella@gmail.com";110147,00
+"cc6ac2acd6d0e548d6286f6015f58aa2d6ab091a";"2016-09-06T00:13:32Z";"lucaquerella";"Fix naming for managedChildren";"Luca Querella";"luca.querella@gmail.com";110147,00
+"81647235026ee3b650b94822f66c812142a96d06";"2016-09-05T23:55:30Z";"lucaquerella";"Use managed child in NativeGridViewCell";"Luca Querella";"luca.querella@gmail.com";110147,00
+"b1a030020f28768e10ba89be6576b35c36732592";"2016-09-05T23:55:14Z";"lucaquerella";"Remove managed node on Cell deinit";"Luca Querella";"luca.querella@gmail.com";110147,00
+"b73055334542f7dc129917689ee673204d533d47";"2016-09-05T21:39:37Z";"lucaquerella";"Add support for managed children";"Luca Querella";"luca.querella@gmail.com";110147,00
+"ab78307ff8f0daa8fa93aa056b60c6ad6dfe2a4b";"2016-09-05T20:25:37Z";"lucaquerella";"Remove fixed FIXME";"Luca Querella";"luca.querella@gmail.com";110147,00
+"8612d5f667b81828792f3b89e1f0ccf5b7a371b5";"2016-09-05T20:23:58Z";"lucaquerella";"Remove DispatchingNodeDescription";"Luca Querella";"luca.querella@gmail.com";110147,00
+"ff3245f29a3b49a27e14a09639c229318f687b7c";"2016-09-05T15:59:08Z";"bolismauro";"Add default implementation of equatable for node props and state";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"826d215b8f3c25a233debb7eebe0cdbfef7ac2c7";"2016-09-05T12:44:55Z";"lucaquerella";"Fix Table/Grid - Temporary solution WIP";"Luca Querella";"luca.querella@gmail.com";110147,00
+"4540f3d8b987eb4e4cb9f5e6ddac20b4f8709f39";"2016-09-05T12:07:16Z";"lucaquerella";"Polish test folder structure";"Luca Querella";"luca.querella@gmail.com";110147,00
+"d138581c8493df31fe4ded833a798a3bb6e16353";"2016-09-05T11:12:06Z";"lucaquerella";"Fix tests";"Luca Querella";"luca.querella@gmail.com";110147,00
+"14ab1aeed482b81ccc049dd5f8b4b424e0c61800";"2016-09-05T00:03:49Z";"lucaquerella";"Refactor Root node";"Luca Querella";"luca.querella@gmail.com";110147,00
+"6391aa96ec72451639d775949af33bdf226d6357";"2016-09-05T07:40:35Z";"bolismauro";"Make plastic values public";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"d41cfbb1594aa88c0fdfd55ecc0575a3422b98c1";"2016-09-03T22:13:55Z";"lucaquerella";"Make store optional";"Luca Querella";"luca.querella@gmail.com";110147,00
+"43ccba561cf220396b936f632277ab03c025ed3a";"2016-09-03T21:20:00Z";"lucaquerella";"Polish Store and Reduce";"Luca Querella";"luca.querella@gmail.com";110147,00
+"5b824a45106bd0b8457e5574810eb0cf08a2d766";"2016-09-03T21:07:12Z";"lucaquerella";"Re-organise file structure";"Luca Querella";"luca.querella@gmail.com";110147,00
+"311dfc45fbef1eabc4bbccb5dccafcdfe8a3abd7";"2016-09-03T20:41:54Z";"lucaquerella";"Polish ConnectedNodeDescription";"Luca Querella";"luca.querella@gmail.com";110147,00
+"07132c42037c2a07bd07375eb8668c388da9a005";"2016-09-03T20:37:41Z";"lucaquerella";"Remove unecessery code";"Luca Querella";"luca.querella@gmail.com";110147,00
+"744f3a0295e6697c8a57d7e09e3ca5e042a644ca";"2016-09-03T20:21:52Z";"lucaquerella";"Make replaceKey a computed var";"Luca Querella";"luca.querella@gmail.com";110147,00
+"54c956cccea288eac88d2eee2731af462ccac57d";"2016-09-03T20:18:27Z";"lucaquerella";"Improve naming consistency";"Luca Querella";"luca.querella@gmail.com";110147,00
+"d1fd5afbb2bb38c427b646bdbf38e0a7c8a37fe5";"2016-09-03T14:29:01Z";"lucaquerella";"Improve Plastic separation, Make (most of) the test pass and polish naming";"Luca Querella";"luca.querella@gmail.com";110147,00
+"9837042716f11955201ebd9481d07babae998d47";"2016-09-02T19:56:00Z";"lucaquerella";"Fix SideEffectsDependencies";"Luca Querella";"luca.querella@gmail.com";110147,00
+"b9258a4c51fb1091c8b5702b526f07128312d6bb";"2016-09-02T19:35:41Z";"lucaquerella";"Add SideDependencies (WIP)";"Luca Querella";"luca.querella@gmail.com";110147,00
+"c45d77797b4523e72f321cbb92fb068d1a2fb5a5";"2016-09-02T18:51:11Z";"lucaquerella";"Fix compilation problem";"Luca Querella";"luca.querella@gmail.com";110147,00
+"58bdb913e8707d36431daf1df6cf96b0df80dfb1";"2016-09-02T18:50:15Z";"lucaquerella";"Move actionLogger";"Luca Querella";"luca.querella@gmail.com";110147,00
+"b68cf404a709f64fcc48b86e775b927d5a0286e1";"2016-09-02T15:16:22Z";"lucaquerella";"Improve middlewares";"Luca Querella";"luca.querella@gmail.com";110147,00
+"a2490161352c6b70df7d003e6d1d8a7ab73f8aee";"2016-09-02T13:49:14Z";"bolismauro";"Fix bug introduced in the previous commit";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"3b4ee76d50a95442d1e47ade4ae37b8fd1d5c291";"2016-09-02T13:06:36Z";"bolismauro";"Rename associated types to avoid name collisions";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"93500fe47f969869e417969e221f2d83cfef25a8";"2016-09-02T11:42:03Z";"lucaquerella";"Add dispatchPrecondition";"Luca Querella";"luca.querella@gmail.com";110147,00
+"d071d281de787457ed07fb26a62ee8f4283f763d";"2016-09-01T22:38:55Z";"lucaquerella";"Avoid the demo to crash when removing cells - This should be address in a different way";"Luca Querella";"luca.querella@gmail.com";110147,00
+"dededb72b4f43fc132f59ad05dc40c685586eb24";"2016-09-01T20:18:25Z";"lucaquerella";"Fix bug: “connect is not trigger for cell when state changes”";"Luca Querella";"luca.querella@gmail.com";110147,00
+"2bdb9bed9544163e285e8035d369d69bb50a3886";"2016-09-01T16:36:02Z";"lucaquerella";"Merge branch 'todolist-demo'
+
+# Conflicts:
+#	Demo/Nodes/App.swift
+#	Demo/Nodes/Calculator.swift
+#	Demo/Nodes/InstructionPopup.swift
+#	Katana.xcodeproj/project.pbxproj";"Luca Querella";"luca.querella@gmail.com";110147,00
+"14d2bdd3c122c80868b2bdc06d2f63b42d62dbcf";"2016-09-01T16:21:43Z";"lucaquerella";"Polish demo";"Luca Querella";"luca.querella@gmail.com";110147,00
+"8b64edfeff01737682e790268675a2cf6593336b";"2016-09-01T16:00:25Z";"bolismauro";"Remove initial state requirement";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"87d954e981cb0da1c7abb23fb6042e58af22398c";"2016-09-01T15:45:53Z";"bolismauro";"Use associated types default values";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"b50f947b2dea9282ebe844056809b4acfe8e703b";"2016-09-01T14:31:37Z";"lucaquerella";"Fix CellNodeDescription - it was still using “concreteNode”";"Luca Querella";"luca.querella@gmail.com";110147,00
+"7a558311c9fa6cac4a09d2767263d58f9ea898a6";"2016-09-01T14:28:28Z";"lucaquerella";"Add toggle completition in demo";"Luca Querella";"luca.querella@gmail.com";110147,00
+"97207f1625ab15e94a5ffc5664090d383d4fdc9b";"2016-09-01T13:45:46Z";"lucaquerella";"Add “delete todo” to Demo";"Luca Querella";"luca.querella@gmail.com";110147,00
+"9fc1d9f9cbd1499015b4954a4dccd1c877bfaefa";"2016-09-01T13:23:03Z";"lucaquerella";"Update Demo to Katana modifications";"Luca Querella";"luca.querella@gmail.com";110147,00
+"5e3ff38418c925f9bc61bc1d09f3cfe83f37169e";"2016-09-01T13:22:16Z";"lucaquerella";"Merge branch 'master' into todolist-demo
+
+# Conflicts:
+#	Demo/Nodes/App.swift
+#	Demo/Nodes/Calculator.swift
+#	Demo/Nodes/InstructionPopup.swift";"Luca Querella";"luca.querella@gmail.com";110147,00
+"19cba589880d4000dabb10bcb1b34c668fdee3e8";"2016-09-01T13:21:37Z";"lucaquerella";"Add “add todo” feature to the demo";"Luca Querella";"luca.querella@gmail.com";110147,00
+"e01cde400e8a0a666e960423a69c15f02b7ed366";"2016-09-01T13:06:59Z";"lucaquerella";"Fix AppDelegate";"Luca Querella";"luca.querella@gmail.com";110147,00
+"947ec410de53a55fc8c072668c9697a9b665af1c";"2016-09-01T13:06:23Z";"lucaquerella";"Fix bug in SyncSmartAction";"Luca Querella";"luca.querella@gmail.com";110147,00
+"ea42959bf36e29bdbf45c509d663966aee9731af";"2016-09-01T13:06:16Z";"lucaquerella";"Fix bug in Table";"Luca Querella";"luca.querella@gmail.com";110147,00
+"cde82c77ec2d22619eafb4c3bbdafa3bfdce79f1";"2016-09-01T13:06:11Z";"lucaquerella";"Pass props as inout in connect";"Luca Querella";"luca.querella@gmail.com";110147,00
+"506f86ef3b93374bef145d388f37a65d1237952d";"2016-09-01T12:40:19Z";"bolismauro";"Rename rootView to nativeView in plastic";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"2ea409fad7a7b93ced19922e3be815d87cc1fc85";"2016-09-01T11:45:15Z";"lucaquerella";"Prepare for new demo";"Luca Querella";"luca.querella@gmail.com";110147,00
+"b9be5f641a288f3d6241811755d13e455e8d56c3";"2016-09-01T11:38:31Z";"lucaquerella";"Rename smart actions";"Luca Querella";"luca.querella@gmail.com";110147,00
+"86a611d2cfcfe596f92c25d9aadaa51191428cbf";"2016-08-30T21:35:09Z";"bolismauro";"Fix compilation issue";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"83aaf7d86f43f1662df12966254fe7e14dfbb823";"2016-08-30T18:52:36Z";"lucaquerella";"Refactor Saga in “SideEffect”";"Luca Querella";"luca.querella@gmail.com";110147,00
+"c82028052fe6903cad99cd761e0e8f4655d0a2d8";"2016-08-30T12:49:29Z";"lucaquerella";"Fix mess of previous commit and remove constraint that Saga can only process SyncAsyncAction";"Luca Querella";"luca.querella@gmail.com";110147,00
+"2d5691045de7a7e9b1ab5e57451263e00d11522f";"2016-08-30T12:40:36Z";"lucaquerella";"Move AnyStore to Store";"Luca Querella";"luca.querella@gmail.com";110147,00
+"255312bcda39a599c8d860f21f693d3320764802";"2016-08-30T12:19:02Z";"bolismauro";"Fix bug in store";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"98a58713522ba183b0b4012dc475ac7e62cf98e1";"2016-08-30T12:03:55Z";"bolismauro";"[WIP] Try to make saga compile";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"b66b5e676cfd870d4343be39f11522cf78d89977";"2016-08-30T11:18:15Z";"lucaquerella";"Implement a first version of Saga WIP";"Luca Querella";"luca.querella@gmail.com";110147,00
+"8fe16e478d7dd1458d04c64621ebb134d9985d4d";"2016-08-30T08:08:48Z";"bolismauro";"Make tests pass";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"09c7f803e0feb65f4083339f5a83309f0f1db52a";"2016-08-30T07:58:24Z";"bolismauro";"Merge branch 'master' into smart-actions";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"048fadac867191b9b94e6d2f571ea61778153069";"2016-08-30T07:58:21Z";"bolismauro";"Remove outdated tests";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"1ceca16fe747b2ed650ced774fe07b6222e200f4";"2016-08-30T07:56:29Z";"bolismauro";"Remove unused code";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"3b275ab3a93e2b0502c4375da76c3c1064d61567";"2016-08-30T07:54:32Z";"bolismauro";"Lint code";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"135bac0b418367964915159ef7172a6450158aae";"2016-08-30T07:43:36Z";"bolismauro";"Restore tests";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"0de741046ba8d74284f20f0171b0b07302483417";"2016-08-29T22:42:23Z";"lucaquerella";"Add AsnyAction";"Luca Querella";"luca.querella@gmail.com";110147,00
+"4b2466c0cbede8c0b615113af2452123d79fa6ae";"2016-08-29T22:20:18Z";"lucaquerella";"Implement new SnycActions";"Luca Querella";"luca.querella@gmail.com";110147,00
+"9c391bd6cf66b56eeba2b30c17b8a6ba87204c32";"2016-08-29T19:25:14Z";"lucaquerella";"Remove Saga and Sync/Async Action";"Luca Querella";"luca.querella@gmail.com";110147,00
+"0f3bfd7478bebe6a0afc1696c03fda55187c7577";"2016-08-29T12:12:24Z";"bolismauro";"Remove typealiases needed as a workaround";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e68211add9237502cc699ad08db65046cda6abee";"2016-08-29T12:07:18Z";"bolismauro";"Remove not necessary code";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"5d762db97e23d74e8a09043b6de81068e4b6f113";"2016-08-29T09:19:41Z";"bolismauro";"Fix crashes";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"25bf0e8455f7b6a5cea2dff6965ffbc2b5147c88";"2016-08-27T21:21:07Z";"lucaquerella";"Reduce Comparable implementation to minimum for NodeDescriptionKeys. RawValue";"Luca Querella";"luca.querella@gmail.com";110147,00
+"6b93bf04e6404270493967aa46a532cde36ae2c1";"2016-08-27T21:08:36Z";"lucaquerella";"Try to improve naming and clarity";"Luca Querella";"luca.querella@gmail.com";110147,00
+"d04efee41193dd80ad80dc738aba8835b7b51de3";"2016-08-27T20:18:35Z";"lucaquerella";"Polish PlasticMultiplierProvider protocol";"Luca Querella";"luca.querella@gmail.com";110147,00
+"3833b770d7d99cc935aeec36cc1bccfef015f6a3";"2016-08-27T20:15:36Z";"lucaquerella";"Remove API/ Types/ Protocol/";"Luca Querella";"luca.querella@gmail.com";110147,00
+"f9d61b555707806f8b3b6653ad5d97a2d04e8532";"2016-08-27T20:12:14Z";"lucaquerella";"Remove NodeWithPlastic - why do we have it? o.O";"Luca Querella";"luca.querella@gmail.com";110147,00
+"03549cd99190716f19d1f8d62c7a239ab8b6cc9a";"2016-08-27T20:11:08Z";"lucaquerella";"Make it compile on beta6";"Luca Querella";"luca.querella@gmail.com";110147,00
+"b2e176a2c92cf1427179e5858952e91afbaa2995";"2016-08-26T20:50:58Z";"lucaquerella";"Bring grid back";"Luca Querella";"luca.querella@gmail.com";110147,00
+"5ed6adc0395afb0181113a5dd1ed055755702e67";"2016-08-26T20:37:52Z";"lucaquerella";"Dispatch change password action";"Luca Querella";"luca.querella@gmail.com";110147,00
+"91aef6944f6b087ea2a9b2bb56a9920981f10e4b";"2016-08-26T20:37:25Z";"bolismauro";"Fix demo";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"73e96b65721def0d731c7dcce5e812dbe0090e03";"2016-08-26T20:29:28Z";"lucaquerella";"Add animation in demo";"Luca Querella";"luca.querella@gmail.com";110147,00
+"2e77d023e451a483be97006629bf1194b727619c";"2016-08-26T20:19:57Z";"lucaquerella";"Merge branch 'feature-animation'";"Luca Querella";"luca.querella@gmail.com";110147,00
+"f376dddeb12cecc354fa2c8abf7819378cc6b701";"2016-08-26T20:19:43Z";"lucaquerella";"Merge branch 'new-demo'
+
+# Conflicts:
+#	Demo/Nodes/App.swift
+#	Katana.xcodeproj/project.pbxproj
+#	StorageDemo/main.swift";"Luca Querella";"luca.querella@gmail.com";110147,00
+"083c75a68f3414a467b9a6dc9145df959f8a399b";"2016-08-26T19:55:14Z";"bolismauro";"Remove unnecessary code";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"f1f22e422f8a1f2fbcfd5da45bd3e5000654fdff";"2016-08-26T19:49:13Z";"lucaquerella";"Remove actions namespacing";"Luca Querella";"luca.querella@gmail.com";110147,00
+"e612a3ae667bcf14324f3c25fce916c8c4f9f4ec";"2016-08-26T18:53:44Z";"bolismauro";"Add animation code";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"4ad6e9e69d057845dd4cf2ebc7a1ac29ccd8a046";"2016-08-26T13:35:07Z";"bolismauro";"Structure Katana code";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a152d69754bbacc18434c60b69686823b937f090";"2016-08-26T09:24:14Z";"lucaquerella";"Use enum";"Luca Querella";"luca.querella@gmail.com";110147,00
+"2f8d7920697319840385b3961c9e47fc2df4c6b6";"2016-08-25T21:00:21Z";"lucaquerella";"Simple password set";"Luca Querella";"luca.querella@gmail.com";110147,00
+"f611d2ae8833b87d0330687c50f063982425df7c";"2016-08-26T08:53:09Z";"bolismauro";"Leverage keys to better manage view swapping
+
+T";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"15242d05232bada947f2047e3960e9a7ae11b16b";"2016-08-26T08:38:50Z";"bolismauro";"Fix Plastic issue
+
+This was caused by a wrong calculation of the relative values when the origin frame was non-zero";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ce90424d93e5b17ffbf68a5bbd1d7c78ecfde28b";"2016-08-25T15:15:33Z";"bolismauro";"Fix issue due to the refactor";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e26e59f4611de4f67df29773e7c1d852f3f67681";"2016-08-25T15:08:11Z";"bolismauro";"Refactor node code";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"6424a0b25b3d406352adc075ba12686aa2ed02ab";"2016-08-25T14:52:49Z";"bolismauro";"Improve code separation in Node";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"b1950bed1984f7bdb102795efcfe0c445065b06c";"2016-08-25T13:13:12Z";"bolismauro";"Fix tests";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"d7d485e57c017c541a44671ca154bfc2798b3928";"2016-08-25T13:00:05Z";"bolismauro";"Fix project";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"01c90fe8c1c77b98f5c2795a9755c1714ff3c9c4";"2016-08-25T12:57:49Z";"bolismauro";"Implement keys as enums for plastic";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"9a5ca7a84d43160b06a2ed0d67ec8d612c8bea97";"2016-08-24T16:01:34Z";"bolismauro";"Remove native view prop from nodedescription";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"80d166fdc06387d8974dd9d7ec85f217f051ad6d";"2016-08-24T15:54:55Z";"bolismauro";"Move protocol declaration";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"c23fa76864dba4bad4c2710ae04920880fd8c95f";"2016-08-24T15:03:48Z";"bolismauro";"Separate plastic protocols";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"b7b7b2495939e26a65f45b00c3bec093ed71b6e4";"2016-08-24T15:03:08Z";"bolismauro";"Make tests great again";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"78c2511b155863c1d243c6f56952820bb2c0c9c5";"2016-08-24T10:10:45Z";"lucaquerella";"Reorganise tests (they still don’t pass)";"Luca Querella";"luca.querella@gmail.com";110147,00
+"a3e19c6dbe197eb7ece607eca7dd6f122f97fee3";"2016-08-24T09:58:57Z";"lucaquerella";"Remove old demo (I’ll add it back)";"Luca Querella";"luca.querella@gmail.com";110147,00
+"88dc2f5020c1139f12d1cbc057ac114ae5a69a19";"2016-08-23T21:23:03Z";"lucaquerella";"Polish Katana";"Luca Querella";"luca.querella@gmail.com";110147,00
+"6c027bfb1b86d9979fb2fcda0e5a8ec31e435781";"2016-08-23T18:30:27Z";"bolismauro";"Fix Storage demo";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"539221eac1702e2fb717947c2d90d5aec43468a1";"2016-08-23T10:02:26Z";"bolismauro";"Merge pull request #5 from BendingSpoons/feature-grid
+
+Feature grid";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"5109059d0bc0b515fdadfd3de51ac2ea269e49cd";"2016-08-23T10:01:05Z";"bolismauro";"Add grid layout support";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"966d8b5294fda874fe8840ecd3a932bea79c898f";"2016-08-23T08:23:17Z";"bolismauro";"Code cleanup";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"554e1c8fad01114fe00bf6d239a13234d57ac889";"2016-08-23T08:22:19Z";"bolismauro";"Implement highlighted statate management";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"d34befcbd3afe77e05979013d9c1bb0c6555bd39";"2016-08-23T08:22:10Z";"bolismauro";"Implement tap dispatch";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ea3d15d94866bc3875ecf417ed1ecd5d8a55e0fd";"2016-08-23T08:12:28Z";"bolismauro";"Add first working grid example";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"9b691430e3f5fa0b62552b7047191f9c74b609e9";"2016-08-23T08:02:07Z";"bolismauro";"Add foundations for grid element";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e661629a3aa9d963d03c4f1a496eca5a030d10f8";"2016-08-23T07:45:52Z";"bolismauro";"Rename table elements";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"89d47b89d12fae56383ff9e7f3e9eb5027cfc9a7";"2016-08-22T19:14:52Z";"bolismauro";"Remove dead code";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"f5a6d5bb2cad9ec12788d9a6f0413ad0891eca2d";"2016-08-22T19:04:46Z";"bolismauro";"Rename enums to conform to swift 3 naming guidelines";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"41634564cd03cee6d9573180313f6f0452122bda";"2016-08-22T18:55:52Z";"bolismauro";"Merge pull request #4 from BendingSpoons/feature-table
+
+Feature Table";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"0238acd6ac766324655d793b9e35ae957a596361";"2016-08-22T18:54:06Z";"bolismauro";"Fix behaviour when the table delegate becomes nil";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"17eb5d4567fa141f5c67ffc15d44c0a301e430ff";"2016-08-22T18:42:25Z";"bolismauro";"Rename classes";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"f8556eac08ffd13b822b1c8bf37887fc6ebdff5b";"2016-08-22T16:12:50Z";"bolismauro";"Remove objc attribute";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"38c4fcf0e25c4a79699fa1f7d8bcadefe86250a2";"2016-08-22T16:09:49Z";"bolismauro";"Fix description comparison";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"559834d55986c70d818c9026020e1dcb3d1e495a";"2016-08-22T15:32:05Z";"bolismauro";"Update demo";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"32e3669e17e03cf2752631a18d3a28621e121eb2";"2016-08-22T15:08:52Z";"bolismauro";"Fix issues with table update";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"d311b90f88982461013b6aefa0651b5418e9d3f9";"2016-08-22T14:12:23Z";"bolismauro";"Handle tap event on cells";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"4d4bbe7e07d1f2f7d54b130bbae2035a607ea0bd";"2016-08-22T13:44:33Z";"bolismauro";"Add automatic highlighted state management";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"faa56dfd4b669d6542396f744baed0ad447a5812";"2016-08-22T12:36:35Z";"lucaquerella";"Fix import";"Luca Querella";"luca.querella@gmail.com";110147,00
+"ee6e7468eccc5fcfbfc8794b895459f3a758107a";"2016-08-22T12:28:44Z";"bolismauro";"Improve table view implementation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"91d86eb3e35c970d0ffb482fe50f240a5452db47";"2016-08-22T10:21:25Z";"bolismauro";"Add initial implementation of table element";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"92de272fa671e46094b6bdd7e9b5c7db1f699cd5";"2016-08-22T09:57:33Z";"bolismauro";"Add AnyStore
+
+The main reason of this change is remove generic from Katana Node. This simplifies the code and allow us to implement table";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"7f3c16fcb24ba3ffd734420796adbbc3c42b2e6a";"2016-08-22T08:16:36Z";"bolismauro";"Merge pull request #3 from BendingSpoons/katana-storage-integration
+
+Katana storage integration";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"d6f5ecd25d12c5dd8d32f8694b685c5c845123b1";"2016-08-21T19:18:51Z";"bolismauro";"Add dispatch function to katana nodes";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"966475d9ae0d3a23e46c9a4141f05de0cd9b1ce7";"2016-08-20T12:50:43Z";"bolismauro";"Fix tests";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"3e807f35378feaa316771ba942021f069b5fdb1f";"2016-08-19T19:57:42Z";"bolismauro";"Update demo to use storage logic";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ac8cd4fe6007bf7772701e2a1f4bdf1ff071832b";"2016-08-19T19:23:50Z";"bolismauro";"Add initial implementation of Logic integration";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"b0b4b64dd6e36b8409b2773d056180c23ee821eb";"2016-08-19T18:46:06Z";"bolismauro";"Fix store visibility";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ec16a2d154521d60e6e528a6ddfeb4e632651006";"2016-08-19T18:45:13Z";"bolismauro";"Remove always true parameter";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"988c5059a1cc742abf84421acc444eb2f7ac8f66";"2016-08-19T15:01:50Z";"bolismauro";"Fix LQ bug";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"53c3989eaf14ccbc7ee91192669228cb2a328197";"2016-08-19T13:04:41Z";"bolismauro";"Restore Plastic tests";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"3ead176052ad6a4fa5476d549dfc2b058b162128";"2016-08-19T12:56:12Z";"bolismauro";"Fix Merge";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"c162b5d6e2468454e96aa086bd229e386bdd160e";"2016-08-19T12:53:01Z";"bolismauro";"Refactor Plastic structure";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"35e84f8fe04696913209dfc55f66731c8165caa6";"2016-08-19T12:43:17Z";"bolismauro";"Separate PlasticNode from Node";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"c7d149edef810496396ae31ddd07e7c16053a4b4";"2016-08-19T12:35:39Z";"lucaquerella";"Polish and rename some little details";"Luca Querella";"luca.querella@gmail.com";110147,00
+"fecf7f71faa00b131aecd5b75142f4622b15930e";"2016-08-19T10:24:34Z";"bolismauro";"Merge pull request #2 from BendingSpoons/children-refactor
+
+Refactor Children Approach";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"74644209f07144730b116bfacea7af555b2ec52a";"2016-08-19T10:23:05Z";"bolismauro";"Fix demo";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"241db3f2e4afab2ef83ec2d43b55fd77fbf467e5";"2016-08-19T10:02:07Z";"bolismauro";"Fix tests";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"570615f1000e0954e0b3976d7c9597343d695551";"2016-08-19T09:54:42Z";"bolismauro";"Merge branch 'master' into children-refactor
+
+# Conflicts:
+#	Demo/AppDelegate.swift
+#	Demo/Nodes/App.swift
+#	Demo/Nodes/Calculator.swift
+#	Demo/Nodes/InstructionPopup.swift
+#	Demo/Nodes/Popup.swift
+#	Demo/Nodes/Tabbar.swift
+#	Katana/Core/Node.swift
+#	Kata";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ce6fed05730c5ea90a6708a73286d7f72b211920";"2016-08-19T07:18:28Z";"bolismauro";"Merge pull request #1 from BendingSpoons/katana-plastic
+
+Plastic Integration in Katana";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"5776f8ad4ed17e09abcd04096b03022555b5c66a";"2016-08-18T19:41:31Z";"bolismauro";"Merge branch 'master' into katana-plastic
+
+# Conflicts:
+#	Demo/AppDelegate.swift
+#	Katana.xcodeproj/project.pbxproj
+#	Katana/Core/Node.swift";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"bc6272888415311aa2f864a94cc15b21ec151288";"2016-08-18T19:18:51Z";"bolismauro";"Code cleanup";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e3fd6c463ca63dcff9cc0368ed23e51bda6aac2d";"2016-08-18T18:55:13Z";"bolismauro";"Merge branch 'master' into children-refactor";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"6ab1af4652009e383187a0e6a674bef61114a6a1";"2016-08-18T18:52:06Z";"bolismauro";"Remove debug print";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"4e8522f56d9ca444a1f4de045acdafff47f6ce8f";"2016-08-18T18:50:13Z";"bolismauro";"Merge branch 'master' into children-refactor";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"716abaf29da722aa96528586bc074b1edb49378b";"2016-08-18T18:48:50Z";"lucaquerella";"Imporve Node codestyle";"Luca Querella";"luca.querella@gmail.com";110147,00
+"ea04de0a474496269f5ac5e8e19e9dfd5295332a";"2016-08-18T18:48:43Z";"lucaquerella";"Improve Button";"Luca Querella";"luca.querella@gmail.com";110147,00
+"34310f21d813907e380b829822e485144472c91b";"2016-08-18T18:32:05Z";"lucaquerella";"Fix memory crash";"Luca Querella";"luca.querella@gmail.com";110147,00
+"429ac8add05a6659ffac704fc2a47e374d7bea40";"2016-08-18T16:21:04Z";"bolismauro";"Ma demo work again";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"05778226b475ea971e3ac69531deeedcd06e3d8e";"2016-08-18T15:53:22Z";"bolismauro";"Make tests work again";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"1e8ad947e1c2aa1f5a2db456fc456e7cf75fd622";"2016-08-18T15:49:41Z";"bolismauro";"Implement children functionalities in View and TouchHandler";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"699a8e6ba2c645dee062bf38517ee7be1dee6fa0";"2016-08-18T15:00:07Z";"bolismauro";"Remove children from node description";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"76eb2d4c1ac3438831095dc738bfa41053cdf28f";"2016-08-18T12:24:12Z";"bolismauro";"Integrate redux into katana";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"399d71758f61529e077b4b3b88eeadbb4893477d";"2016-08-18T12:17:47Z";"bolismauro";"Merge branch 'master' into rekatana";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"f21a640887239b4b34d408ad3584bfd44126e8f4";"2016-08-18T12:07:46Z";"bolismauro";"Add memory tests with plastic";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"4fe0036b3e3d27198a67c84fa083c5f9e5443eec";"2016-08-18T12:01:59Z";"bolismauro";"Merge branch 'master' into katana-plastic
+
+# Conflicts:
+#	Demo/Nodes/Tabbar.swift
+#	Katana.xcodeproj/project.pbxproj
+#	Katana/Core/Node.swift";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"74f5a4dd9559ccbe6a2a02291b508a731a68f2eb";"2016-08-18T11:54:20Z";"lucaquerella";"Fix test added in prev commit";"Luca Querella";"luca.querella@gmail.com";110147,00
+"aacb032347bbdd79e35fb567864d31ff64e9dfbf";"2016-08-18T11:40:14Z";"lucaquerella";"Add failing test - view are not deallocated";"Luca Querella";"luca.querella@gmail.com";110147,00
+"a0f6b0ae348cccd7bfc23180d88e81ff1fdcea9a";"2016-08-18T11:32:34Z";"bolismauro";"Separate plastic protocols from katana protocols";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"73d5902357c9fa25fc2ebf5351781a7c5a4ab64a";"2016-08-18T10:42:09Z";"bolismauro";"Refactor protocol for reference size";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ff3af04e7cffb76c74d498df61fa5602b00c749c";"2016-08-18T10:32:36Z";"bolismauro";"Rename class";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"d506d4070faa0f4a3c2850d6b77578d1cbb6cdec";"2016-08-18T10:26:20Z";"bolismauro";"Add multiplier management";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"b917646753b15f6dfe05894fccf63c054afa9d77";"2016-08-18T10:08:27Z";"bolismauro";"Prepare katana for plastic multiplier implementation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"975b69a1f1f7f3cb4e4079cb94689e43c8c10f61";"2016-08-18T09:15:44Z";"bolismauro";"Add layout for tabbar";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"caed34686f27891fd1ba442d766634c0678eca37";"2016-08-18T08:45:28Z";"bolismauro";"Add layout code for calculator";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"9ab70339c9d93e6b712eec07678d6e86a0b7aaa7";"2016-08-17T18:42:32Z";"bolismauro";"Add plastic code for popup";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"4b0eede972ad66aaf1e1aca3eca34464c5fc3c3e";"2016-08-17T18:42:25Z";"bolismauro";"Fix bug in Plastic
+
+Given frames were not preserved by the applyLayout";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"be10dd2260fe6b19975d2a2123c2bd08eb75f9d6";"2016-08-17T15:31:48Z";"bolismauro";"Port partially demo to plastic";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"1a3033244f7c5b79ac93d84930079da118b795a6";"2016-08-17T15:31:39Z";"bolismauro";"Fix bug in Plastic";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ac18b39746538dee0067830b32cf98c0137176a9";"2016-08-17T14:30:42Z";"bolismauro";"Add hierarchy manager implementation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"d3bab0c143fd48565b7b687feb53f02358d42446";"2016-08-17T14:30:24Z";"bolismauro";"Fix Plastic Katana integration";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"97aa1ca7c769e72cd53371ca6d8c95130cf38477";"2016-08-17T14:30:07Z";"bolismauro";"Add Node tests";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"9190a858832a230f7574250cd2686368c675d83b";"2016-08-17T13:54:33Z";"lucaquerella";"Add test for Node deallocation";"Luca Querella";"luca.querella@gmail.com";110147,00
+"c4daefc6854d0bd2f8292e0bd3ed0767153f9114";"2016-08-17T12:00:27Z";"bolismauro";"Add array convenience methods";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"a4942a78e2b71acfa94d6f91b4f7596cfecd0e31";"2016-08-17T09:28:53Z";"bolismauro";"Add convenience methods to PlasticView";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"9d1e9989f67ee3727c4946c957520c9a70f638e3";"2016-08-17T09:05:02Z";"lucaquerella";"Add some initial tests";"Luca Querella";"luca.querella@gmail.com";110147,00
+"a3cb76b1a4bdcc3b217ec152f30ff5665916429e";"2016-08-17T07:37:23Z";"lucaquerella";"Fix memory leak";"Luca Querella";"luca.querella@gmail.com";110147,00
+"441e3b7d7a89501abf22362c040b98cd5c517c44";"2016-08-16T19:54:39Z";"bolismauro";"Add more tests for basic layout functions";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"f084de6d2e458a89939f069b1cae5cef04ba0fe5";"2016-08-16T19:39:25Z";"bolismauro";"Add tests for basic layout operations";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"bacd90091f81fe41cc29476a7b9a41a3d8ef8827";"2016-08-16T18:59:14Z";"bolismauro";"[WIP] Implement basic getter/setter in plastic view";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"f9bb92e25857ed64102b86dc000a60619a5f06ea";"2016-08-16T16:49:54Z";"bolismauro";"[WIP] Add initial plastic view implementation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"51adcb472b05723ced103614b8ce0afe5dab62f7";"2016-08-16T15:41:43Z";"bolismauro";"Use CGFloat instead of Float";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"401643a7c1ffd53865cab75c2b64d9baedf16baa";"2016-08-16T15:22:57Z";"bolismauro";"Rename structures";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ac5a23044e95254b2f7e46d89050fa9d4c0f9b77";"2016-08-16T15:10:16Z";"bolismauro";"Add basic dimension structures";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"4f7a796f89dfc05dcddade74140b598254f1cb85";"2016-08-16T14:15:03Z";"bolismauro";"Add basic system to handle layout";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"7ba38852203feeeddd873284c340552d23707498";"2016-08-16T14:15:03Z";"bolismauro";"Add basic system to handle layout";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"c5b28c2fffc02b378b86e05c2b05483d25a2fa03";"2016-08-16T11:45:58Z";"lucaquerella";"Fix indentation";"Luca Querella";"luca.querella@gmail.com";110147,00
+"517355a46c11dc1a25a25e2f409f30e26988e682";"2016-08-16T11:43:33Z";"lucaquerella";"Improve Demo (create Album)";"Luca Querella";"luca.querella@gmail.com";110147,00
+"991ee5c3695c16b23ea5cd09b79041f61e6a27bf";"2016-08-16T11:37:00Z";"bolismauro";"Indent source code using 2 spaces";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"959674fe24d04a2b662a5491210760153769fb72";"2016-08-15T16:18:02Z";"lucaquerella";"Imporve Demo (tabbar structure)";"Luca Querella";"luca.querella@gmail.com";110147,00
+"a7ef89fffed55a1733c958833260a37cb087468f";"2016-08-15T14:45:07Z";"lucaquerella";"Improve core nodes and provide meaningful Demo";"Luca Querella";"luca.querella@gmail.com";110147,00
+"ba4eff0713c8ba0197f67567e410cec8c4d81b09";"2016-08-15T14:44:04Z";"lucaquerella";"Fix bug in tree update";"Luca Querella";"luca.querella@gmail.com";110147,00
+"d8a9ee34f96ddee5a17bfd0fa9120c92939cba11";"2016-08-13T13:06:02Z";"lucaquerella";"Re-organise project structure";"Luca Querella";"luca.querella@gmail.com";110147,00
+"21e62d4e92885f632c070616699ca88c6b08981a";"2016-08-13T09:29:48Z";"lucaquerella";"Refactor Katana logic";"Luca Querella";"luca.querella@gmail.com";110147,00
+"694cef67f279bef8a512e777d037ee14c3bd56f9";"2016-08-12T15:31:22Z";"bolismauro";"Add add photo feature";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"f6fc8447730afb84008ab3431ac41bae454f4621";"2016-08-12T15:31:22Z";"bolismauro";"Add add photo feature";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"c5526970ae218fd7f4fcbe959ea08dcdb0a24475";"2016-08-12T14:52:19Z";"bolismauro";"Fix wrong behaviour in async action sagas";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"83f3bed86af28efe81f147f017154ae42dc91450";"2016-08-12T14:48:01Z";"bolismauro";"Improve typings";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"c4aa715dd97d30d3394bb06f2f27f0ec6e579697";"2016-08-12T13:00:09Z";"bolismauro";"Add default implementation of the asyn reducer methods";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ca15a6777bc7c61e5666005364ecaa28dbb462aa";"2016-08-12T12:51:20Z";"bolismauro";"Small fixes to CLI";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"59f776a23e6b4af0d284ce3b294c8df281e06fbe";"2016-08-12T12:51:15Z";"bolismauro";"Rename files";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"28dae0936db45560f3d36867f9435b31d28dc3ff";"2016-08-12T12:37:49Z";"bolismauro";"Add some documentation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"afbfe24713635cdabec4a0b2f0647ca7719c9e4e";"2016-08-12T11:16:10Z";"bolismauro";"Add basic CLI demo";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"07e2c7b369566b26a845c7bfff13f6bcf8cb3619";"2016-08-12T11:11:33Z";"bolismauro";"Remove unnecessary optional";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"3842f09bc8176bb77c484d13f5b81dad85185c4b";"2016-08-12T10:58:05Z";"bolismauro";"Remove unnecessary methods";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e07708ddbcaa00bcf936cb6cc421c5a70da8a274";"2016-08-12T09:05:53Z";"bolismauro";"Improve typings";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"349dcc8601e47ff82ae5c8038ac389ef9e449065";"2016-08-12T08:49:04Z";"bolismauro";"Update README";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"8fcd3692026e6f649ada3bbdc5a8d01920dc21cc";"2016-08-12T08:47:41Z";"bolismauro";"Add Saga Providers";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"8cb7c65baf3f55033e95c6f1c3c509b81a83f736";"2016-08-11T11:38:22Z";"bolismauro";"Fix project";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"1917957c32bd23fe1c2449296a3ae8c5df616c04";"2016-08-11T11:38:13Z";"bolismauro";"Add action reducers implementation";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"722c2a2f614d90238911a09db56d051e164ed3b5";"2016-08-10T19:31:05Z";"bolismauro";"State is no more required to be equatable";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e74a71bbdb4a3b4407ac99ac4cb1c523ee95d263";"2016-08-10T18:56:11Z";"bolismauro";"Fix assertion usage";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e37e2839c90f8fa19dd357bb3fda7b8f493bbf52";"2016-08-10T15:02:07Z";"bolismauro";"Refactor action tests";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"2ca0995139740f56a65482e6644781a52701c34c";"2016-08-10T14:22:40Z";"bolismauro";"Add SagaModule support for actions";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"08f00abeb6b72a427fd91795bd1014d5f3a90b0e";"2016-08-10T13:01:29Z";"bolismauro";"Update project folder structure";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"7fe28251f028a9375c03f94ae22fecdd15a6a463";"2016-08-10T12:57:45Z";"bolismauro";"Add Sync/Async action creators";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"ca87cbd4744d39f66afdaaaf0865fa9d4bd5175d";"2016-08-10T10:28:56Z";"bolismauro";"Refactor action name management
+
+This commit refactors the way action named are managed. It becomes more cumbersone create a new action and add it to the saga module, since it will require to duplicate the string that acts as unique identifier for the act";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"7679cf3f1e3d11215e68263b5e10c29782ac3bd8";"2016-08-09T19:42:27Z";"bolismauro";"Add todo";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"d8b3a87a8623ca47605a82850206e516a3f21074";"2016-08-09T19:42:21Z";"bolismauro";"Implement saga feature";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"4ff47333c583336b61fe96de20180cbaf304d6c5";"2016-08-09T19:42:01Z";"bolismauro";"Improve tests";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"e7b4b5547a3f0d7d4f28957d2ffeb385efab1e5d";"2016-08-09T10:06:04Z";"bolismauro";"Add README";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"dc583239840563819ec2ffc8bbc63af7c521ec4b";"2016-08-09T09:58:34Z";"bolismauro";"Add initial version of ReKatana";"Mauro Bolis";"bolismauro@gmail.com";771999,00
+"59ad6ae891d6ac4d2e86558932f7450744ed80b5";"2016-08-09T08:12:36Z";"lucaquerella";"Initial commit";"Luca Querella";"luca.querella@gmail.com";110147,00
